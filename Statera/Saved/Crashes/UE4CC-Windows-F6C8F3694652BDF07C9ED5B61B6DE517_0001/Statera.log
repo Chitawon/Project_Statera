@@ -1,0 +1,1157 @@
+﻿Log file open, 11/06/20 09:54:15
+LogInit: Display: Running engine for game: Statera
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.258380
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SnapSystem
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.11.06-02.54.15:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.06-02.54.15:963][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.11.06-02.54.15:963][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.11.06-02.54.15:966][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:966][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.06-02.54.15:966][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.06-02.54.15:967][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.06-02.54.15:968][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.06-02.54.15:968][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.06-02.54.15:968][  0]LogHAL: Display: Platform has ~ 12 GB [12795875328 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.06-02.54.15:968][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.06-02.54.15:968][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.06-02.54.15:968][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.06-02.54.15:969][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.11.06-02.54.15:969][  0]LogInit: Computer: DESKTOP-BNLNCD8
+[2020.11.06-02.54.15:969][  0]LogInit: User: Muka
+[2020.11.06-02.54.15:969][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.06-02.54.15:969][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.06-02.54.15:970][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.11.06-02.54.15:970][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.06-02.54.15:970][  0]LogMemory: Process Physical Memory: 129.01 MB used, 129.02 MB peak
+[2020.11.06-02.54.15:970][  0]LogMemory: Process Virtual Memory: 96.16 MB used, 96.16 MB peak
+[2020.11.06-02.54.15:970][  0]LogMemory: Physical Memory: 6669.78 MB used,  5533.32 MB free, 12203.10 MB total
+[2020.11.06-02.54.15:970][  0]LogMemory: Virtual Memory: 5144.82 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.11.06-02.54.15:976][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.06-02.54.16:006][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.06-02.54.16:006][  0]LogInit: Using OS detected language (en-GB).
+[2020.11.06-02.54.16:006][  0]LogInit: Using OS detected locale (en-GB).
+[2020.11.06-02.54.16:012][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.11.06-02.54.16:182][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.06-02.54.16:208][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.06-02.54.16:208][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.06-02.54.16:371][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.06-02.54.16:371][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.06-02.54.16:371][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.06-02.54.16:371][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.06-02.54.16:479][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX130' (Feature Level 11_0)
+[2020.11.06-02.54.16:480][  0]LogD3D11RHI:       4055/0/6101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.11.06-02.54.16:508][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.11.06-02.54.16:508][  0]LogD3D11RHI:       128/0/6101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.11.06-02.54.16:510][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.06-02.54.16:510][  0]LogD3D11RHI:       0/0/6101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.06-02.54.16:510][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.06-02.54.16:562][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.06-02.54.16:562][  0]LogD3D11RHI:     GPU DeviceId: 0x174d (for the marketing name, search the web for "GPU Device Id")
+[2020.11.06-02.54.16:562][  0]LogWindows: EnumDisplayDevices:
+[2020.11.06-02.54.16:562][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.11.06-02.54.16:562][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.11.06-02.54.16:563][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.11.06-02.54.16:563][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.11.06-02.54.16:563][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX130
+[2020.11.06-02.54.16:563][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.11.06-02.54.16:563][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.11.06-02.54.16:563][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.11.06-02.54.16:648][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.06-02.54.16:648][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.06-02.54.16:667][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.06-02.54.17:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.06-02.54.17:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.06-02.54.17:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.06-02.54.17:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.06-02.54.17:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.06-02.54.17:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.06-02.54.17:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.06-02.54.17:170][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.06-02.54.17:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.06-02.54.17:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.06-02.54.17:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.06-02.54.17:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.06-02.54.17:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.06-02.54.17:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.06-02.54.17:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.06-02.54.17:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.06-02.54.17:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.06-02.54.17:292][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.06-02.54.17:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.06-02.54.17:304][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.06-02.54.17:314][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.06-02.54.17:383][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/Work/Project_Statera/Statera/Intermediate/Shaders/WorkingDirectory/14468/).
+[2020.11.06-02.54.17:383][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Muka/AppData/Local/Temp/UnrealShaderWorkingDir/10942E8B421534ACC8B68E95B5E0E3FE/'.
+[2020.11.06-02.54.17:383][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.06-02.54.17:383][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.06-02.54.17:383][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.06-02.54.18:239][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.06-02.54.18:304][  0]LogDerivedDataCache: Loaded boot cache 0.06s 76MB C:/Users/Muka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.06-02.54.18:304][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Muka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.06-02.54.18:304][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Work/Project_Statera/Statera/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.06-02.54.18:304][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.06-02.54.18:304][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Work/Project_Statera/Statera/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.06-02.54.18:304][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.06-02.54.18:316][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.06-02.54.18:316][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.06-02.54.18:316][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.06-02.54.18:317][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Muka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.06-02.54.18:317][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.06-02.54.18:317][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.06-02.54.18:374][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.06-02.54.18:374][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.06-02.54.18:407][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.11.06-02.54.18:649][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.06-02.54.18:775][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.06-02.54.18:775][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.06-02.54.18:775][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.06-02.54.18:775][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.06-02.54.18:775][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.06-02.54.18:792][  0]LogNetVersion: Statera 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1315094756)
+[2020.11.06-02.54.19:308][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000020A93E0EAC0), frame # 0
+[2020.11.06-02.54.19:308][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020A93DAEAC0), frame # 0
+[2020.11.06-02.54.19:309][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020A93DFDE00), frame # 0
+[2020.11.06-02.54.19:427][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.112323 seconds
+[2020.11.06-02.54.19:433][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.06-02.54.19:433][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.06-02.54.19:433][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.06-02.54.19:851][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.06-02.54.19:967][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.11.06-02.54.19:967][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.11.06-02.54.19:967][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.11.06-02.54.20:011][  0]SourceControl: Source control is disabled
+[2020.11.06-02.54.20:011][  0]SourceControl: Source control is disabled
+[2020.11.06-02.54.20:014][  0]SourceControl: Source control is disabled
+[2020.11.06-02.54.20:017][  0]SourceControl: Source control is disabled
+[2020.11.06-02.54.20:033][  0]SourceControl: Source control is disabled
+[2020.11.06-02.54.20:342][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.06-02.54.20:368][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.06-02.54.20:368][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.06-02.54.20:433][  0]LogOcInput: OculusInput pre-init called
+[2020.11.06-02.54.20:447][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.06-02.54.20:447][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.06-02.54.20:528][  0]LogEngine: Initializing Engine...
+[2020.11.06-02.54.20:529][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.06-02.54.20:530][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.06-02.54.20:530][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.06-02.54.20:716][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.06-02.54.20:731][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.06-02.54.20:731][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020A96381A00), frame # 0
+[2020.11.06-02.54.20:731][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020A963D8CC0), frame # 0
+[2020.11.06-02.54.20:759][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.06-02.54.20:759][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.06-02.54.20:759][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.06-02.54.20:759][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.06-02.54.20:759][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.06-02.54.20:759][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.06-02.54.20:759][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.06-02.54.20:759][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.06-02.54.20:760][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.06-02.54.20:760][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.06-02.54.20:777][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.06-02.54.20:777][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.06-02.54.20:826][  0]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.11.06-02.54.20:829][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.06-02.54.20:831][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.06-02.54.20:831][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.06-02.54.20:832][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.06-02.54.20:833][  0]LogInit: FAudioDevice initialized.
+[2020.11.06-02.54.20:833][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.06-02.54.20:939][  0]LogDerivedDataCache: Saved boot cache 0.11s 76MB C:/Users/Muka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.06-02.54.20:944][  0]LogInit: Texture streaming: Enabled
+[2020.11.06-02.54.20:961][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.06-02.54.20:961][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.06-02.54.20:963][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.06-02.54.21:033][  0]LogInit: Transaction tracking system initialized
+[2020.11.06-02.54.21:057][  0]BlueprintLog: New page: Editor Load
+[2020.11.06-02.54.21:131][  0]LocalizationService: Localization service is disabled
+[2020.11.06-02.54.21:348][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.06-02.54.21:348][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.06-02.54.21:460][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Project_Statera/Statera/Content/' took 0.00s
+[2020.11.06-02.54.22:049][  0]SourceControl: Source control is disabled
+[2020.11.06-02.54.22:049][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.617
+[2020.11.06-02.54.22:049][  0]Cmd: MAP LOAD FILE="D:/Work/Project_Statera/Statera/Content/Map/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.06-02.54.22:049][  0]LightingResults: New page: Lighting Build
+[2020.11.06-02.54.22:050][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.06-02.54.22:050][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.06-02.54.22:050][  0]MapCheck: New page: Map Check
+[2020.11.06-02.54.22:050][  0]LightingResults: New page: Lighting Build
+[2020.11.06-02.54.22:060][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020A96381A00), frame # 0
+[2020.11.06-02.54.22:061][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020A963D8CC0), frame # 0
+[2020.11.06-02.54.22:061][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.06-02.54.23:717][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.11.06-02.54.23:717][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020A8AFF2000), frame # 0
+[2020.11.06-02.54.23:717][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020A8B042840), frame # 0
+[2020.11.06-02.54.23:748][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.06-02.54.23:751][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.11.06-02.54.23:767][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.11.06-02.54.23:768][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.06-02.54.23:768][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.11.06-02.54.23:768][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.719
+[2020.11.06-02.54.23:773][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.341
+[2020.11.06-02.54.23:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.06-02.54.23:956][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.06-02.54.23:963][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.06-02.54.23:972][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.06-02.54.23:993][  0]LogCollectionManager: Loaded 0 collections in 0.002436 seconds
+[2020.11.06-02.54.24:052][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Project_Statera/Statera/Saved/Collections/' took 0.00s
+[2020.11.06-02.54.24:053][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Project_Statera/Statera/Content/Developers/Muka/Collections/' took 0.00s
+[2020.11.06-02.54.24:053][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Project_Statera/Statera/Content/Collections/' took 0.00s
+[2020.11.06-02.54.24:053][  0]LogContentBrowser: Native class hierarchy populated in 0.0191 seconds. Added 3430 classes and 824 folders.
+[2020.11.06-02.54.24:071][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.11.06-02.54.24:767][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.06-02.54.24:782][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.11.06-02.54.25:134][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.06-02.54.25:140][  0]LogSlate: Took 0.000682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.06-02.54.25:159][  0]LogSlate: Took 0.012221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.06-02.54.25:170][  0]LogSlate: Took 0.010030 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.06-02.54.25:339][  0]LogRenderer: Reallocating scene render targets to support 972x464 Format 10 NumSamples 1 (Frame:1).
+[2020.11.06-02.54.25:494][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.06-02.54.25:494][  0]LogLoad: (Engine Initialization) Total time: 13.06 seconds
+[2020.11.06-02.54.25:494][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.06-02.54.25:551][  0]LogAssetRegistry: Asset discovery search completed in 7.1451 seconds
+[2020.11.06-02.54.25:558][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.11.06-02.54.25:561][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.06-02.54.25:593][  0]LogSlate: Took 0.010947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.06-02.54.26:858][  4]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.06-02.55.30:708][223]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-02.55.38:769][478]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter)
+[2020.11.06-02.55.41:181][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle
+[2020.11.06-02.55.42:258][596]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 125 classes and 0 folders.
+[2020.11.06-02.55.44:026][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.11.06-02.55.44:691][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TopDownController.TopDownController
+[2020.11.06-02.55.45:323][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.11.06-02.55.45:975][596]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.11.06-02.55.46:649][596]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.06-02.55.46:839][597]LogSlate: Took 0.014898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.06-02.55.48:529][675]LogSlate: Window 'BP_Obstacle' being destroyed
+[2020.11.06-02.56.04:932][629]BlueprintLog: New page: Compile TopDownCharacter
+[2020.11.06-02.56.05:063][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.11.06-02.56.12:535][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.06-02.56.13:721][141]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-02.56.19:749][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.06-02.56.20:699][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.06-02.57.07:352][138]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-02.57.16:533][684]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-02.57.16:586][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.11.06-02.57.17:322][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obstacle" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset" SILENT=true
+[2020.11.06-02.57.17:656][724]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_ObstacleE82AA88F4B8F27ABE1EB97B43482B4A0.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset'
+[2020.11.06-02.57.17:671][724]AssetCheck: New page: Asset Save: BP_Obstacle
+[2020.11.06-02.57.17:671][724]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle
+[2020.11.06-02.57.27:731][270]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.11.06-02.57.28:752][287]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.06-02.57.29:712][303]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.06-02.59.11:789][  7]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.11.06-02.59.11:789][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.06-03.02.01:837][ 51]Cmd: TRANSACTION UNDO
+[2020.11.06-03.02.01:837][ 51]LogEditorTransaction: Undo Move Node
+[2020.11.06-03.02.03:276][119]Cmd: TRANSACTION UNDO
+[2020.11.06-03.02.03:277][119]LogEditorTransaction: Undo Add Node
+[2020.11.06-03.02.59:438][696]BlueprintLog: New page: Compile TopDownCharacter
+[2020.11.06-03.02.59:500][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.11.06-03.03.04:067][821]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-03.03.47:135][106]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.06-03.03.57:470][717]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.06-03.03.57:724][724]LogEditorTransaction: Undo Edit Grid Index
+[2020.11.06-03.03.57:938][730]LogEditorTransaction: Undo Edit Grid Index
+[2020.11.06-03.03.58:106][739]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.03.58:306][751]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.03.58:506][763]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.03.59:506][823]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.03.59:773][839]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.03.59:973][851]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.04.00:173][863]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.04.00:373][875]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.06-03.04.00:574][885]LogEditorTransaction: Undo Create Pin Link
+[2020.11.06-03.04.00:767][895]LogEditorTransaction: Undo Delete current selection
+[2020.11.06-03.04.01:234][920]LogEditorTransaction: Undo Delete current selection
+[2020.11.06-03.04.01:452][932]LogEditorTransaction: Undo Delete current selection
+[2020.11.06-03.04.13:468][632]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.04.13:516][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.11.06-03.04.14:685][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obstacle" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset" SILENT=true
+[2020.11.06-03.04.14:711][698]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_ObstacleAF0BECD946B47565B19641A0C4E70CCD.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset'
+[2020.11.06-03.04.14:723][698]AssetCheck: New page: Asset Save: BP_Obstacle
+[2020.11.06-03.04.14:723][698]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle
+[2020.11.06-03.04.15:972][772]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-03.04.47:262][627]BlueprintLog: New page: Compile TopDownCharacter
+[2020.11.06-03.04.47:316][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.11.06-03.05.15:385][275]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.05.15:439][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.06-03.06.11:226][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.06-03.06.12:314][665]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-03.06.14:638][786]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.11.06-03.06.28:919][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2020.11.06-03.06.28:957][618]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownCharacter60A1589E4DA81A25F9CD33978AA3C90E.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownCharacter.uasset'
+[2020.11.06-03.06.28:974][618]AssetCheck: New page: Asset Save: TopDownCharacter
+[2020.11.06-03.06.28:974][618]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownCharacter.TopDownCharacter
+[2020.11.06-03.06.40:889][278]LogEditorViewport: Clicking on Actor (LMB): TopDownCharacter_C (TopDownCharacter2)
+[2020.11.06-03.06.41:529][315]Cmd: DELETE
+[2020.11.06-03.06.41:530][315]Cmd: ACTOR DELETE
+[2020.11.06-03.06.41:542][315]LogEditorActor: Deleted Actor: TopDownCharacter_C
+[2020.11.06-03.06.41:573][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.11.06-03.06.41:577][315]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.11.06-03.06.45:582][549]BlueprintLog: New page: Compile TopDownCharacter
+[2020.11.06-03.06.45:633][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.11.06-03.07.04:630][680]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.07.04:677][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.11.06-03.07.27:056][996]BlueprintLog: New page: Compile TopDownCharacter
+[2020.11.06-03.07.27:108][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.06-03.07.28:171][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obstacle" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset" SILENT=true
+[2020.11.06-03.07.28:191][ 56]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_Obstacle17167FB7401D2F78A07B1A8BACC9FBBF.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset'
+[2020.11.06-03.07.28:202][ 56]AssetCheck: New page: Asset Save: BP_Obstacle
+[2020.11.06-03.07.28:202][ 56]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle
+[2020.11.06-03.09.10:977][ 16]LogEditorViewport: Clicking Background
+[2020.11.06-03.09.12:644][115]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-03.09.13:413][159]Cmd: DELETE
+[2020.11.06-03.09.13:413][159]Cmd: ACTOR DELETE
+[2020.11.06-03.09.13:415][159]LogEditorActor: Deleted Actor: BP_Obstacle_C
+[2020.11.06-03.09.13:445][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.11.06-03.09.13:448][159]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.11.06-03.09.35:406][441]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.09.35:412][441]LogBlueprintUserMessages: [BP_Obstacle_C_4] Hello
+[2020.11.06-03.09.35:412][441]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.09.35:452][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.11.06-03.09.35:455][441]LogBlueprintUserMessages: [BP_Obstacle_C_4] Hello
+[2020.11.06-03.09.35:455][441]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.09.35:456][441]LogBlueprintUserMessages: [BP_Obstacle_C_5] Hello
+[2020.11.06-03.09.35:460][441]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.09.35:461][441]LogBlueprintUserMessages: [BP_Obstacle_C_5] Hello
+[2020.11.06-03.09.37:707][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obstacle" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset" SILENT=true
+[2020.11.06-03.09.37:821][573]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_ObstacleA44021474DFCA594181D1CBCEC25E6E2.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset'
+[2020.11.06-03.09.37:835][573]AssetCheck: New page: Asset Save: BP_Obstacle
+[2020.11.06-03.09.37:835][573]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle
+[2020.11.06-03.09.41:142][772]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.09.41:147][772]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.09.41:147][772]LogBlueprintUserMessages: [BP_Obstacle_C_5] Hello
+[2020.11.06-03.09.41:186][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.11.06-03.09.41:188][772]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.09.41:188][772]LogBlueprintUserMessages: [BP_Obstacle_C_5] Hello
+[2020.11.06-03.09.41:189][772]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.09.41:193][772]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.09.41:194][772]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.09.43:079][863]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:079][863]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:080][863]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:082][863]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:085][863]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:108][865]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:109][865]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:125][866]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:141][867]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:158][868]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:175][869]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:191][870]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:208][871]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:224][872]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:258][874]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:309][877]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:325][878]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:342][879]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:358][880]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:375][881]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:391][882]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:408][883]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:424][884]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:441][885]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:458][886]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:474][887]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:491][888]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:492][888]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:525][890]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:541][891]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:558][892]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:574][893]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:592][894]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:607][895]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:624][896]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:708][901]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:725][902]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:742][903]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:758][904]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:775][905]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:791][906]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:808][907]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:825][908]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:841][909]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:858][910]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:863][910]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:874][911]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:878][911]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:891][912]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:892][912]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:908][913]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:909][913]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:925][914]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:942][915]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:958][916]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:975][917]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.43:992][918]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:008][919]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:025][920]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:041][921]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:058][922]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:258][934]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:275][935]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:278][935]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:291][936]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:292][936]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:308][937]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:309][937]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:324][938]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:341][939]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:358][940]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:425][944]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:442][945]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:458][946]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:475][947]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:491][948]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:510][949]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:524][950]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:542][951]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:558][952]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:575][953]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:708][961]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:709][961]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:725][962]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:741][963]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:892][972]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:908][973]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:925][974]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:941][975]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:958][976]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:975][977]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.44:991][978]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:008][979]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:025][980]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:058][982]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:075][983]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:079][983]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:091][984]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:093][984]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:108][985]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:109][985]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:125][986]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:175][989]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:192][990]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:209][991]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:224][992]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:242][993]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:275][995]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:291][996]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:293][996]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:308][997]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:310][997]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:325][998]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:342][999]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:358][  0]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:375][  1]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:391][  2]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:408][  3]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:424][  4]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:442][  5]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:459][  6]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:491][  8]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:492][  8]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:510][  9]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:524][ 10]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:541][ 11]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:559][ 12]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:575][ 13]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:591][ 14]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:608][ 15]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:625][ 16]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:641][ 17]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:658][ 18]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:691][ 20]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:692][ 20]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:709][ 21]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:710][ 21]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:725][ 22]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:742][ 23]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:759][ 24]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:775][ 25]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:808][ 27]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:825][ 28]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:842][ 29]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:858][ 30]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:874][ 31]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:879][ 31]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:891][ 32]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:893][ 32]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:925][ 34]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:942][ 35]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:958][ 36]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:975][ 37]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.45:992][ 38]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:008][ 39]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:058][ 42]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:063][ 42]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:075][ 43]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:079][ 43]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:092][ 44]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:093][ 44]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:108][ 45]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:109][ 45]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:125][ 46]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:141][ 47]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:158][ 48]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:174][ 49]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:191][ 50]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:208][ 51]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:225][ 52]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:258][ 54]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:275][ 55]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:279][ 55]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:291][ 56]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:292][ 56]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:308][ 57]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:309][ 57]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:325][ 58]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:342][ 59]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:358][ 60]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:375][ 61]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:391][ 62]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:408][ 63]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:424][ 64]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:475][ 67]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:891][ 92]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:908][ 93]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:910][ 93]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:925][ 94]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:942][ 95]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:958][ 96]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:974][ 97]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.46:991][ 98]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:308][117]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:309][117]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:325][118]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:341][119]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:358][120]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:375][121]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:391][122]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:408][123]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:425][124]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:441][125]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:458][126]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:464][126]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:475][127]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:625][136]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:642][137]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:658][138]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:664][138]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:675][139]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:680][139]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:692][140]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:693][140]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:709][141]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:710][141]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:725][142]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:741][143]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:758][144]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:774][145]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:792][146]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:808][147]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:825][148]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:842][149]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.47:992][158]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:008][159]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:025][160]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:042][161]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:058][162]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:074][163]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:078][163]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:091][164]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:093][164]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:108][165]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:191][170]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:225][172]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:241][173]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:258][174]LogBlueprintUserMessages: [BP_Obstacle] Hello
+[2020.11.06-03.09.48:318][177]LogBlueprintUserMessages: [BP_Obstacle_7] Hello
+[2020.11.06-03.09.48:324][177]LogBlueprintUserMessages: [BP_Obstacle_7] Hello
+[2020.11.06-03.09.48:324][177]LogBlueprintUserMessages: [BP_Obstacle_7] Hello
+[2020.11.06-03.10.04:225][129]Cmd: DELETE
+[2020.11.06-03.10.04:225][129]Cmd: ACTOR DELETE
+[2020.11.06-03.10.04:226][129]LogEditorActor: Deleted Actor: BP_Obstacle_C
+[2020.11.06-03.10.04:257][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.11.06-03.10.04:260][129]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.11.06-03.10.14:235][724]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.10.14:236][724]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.10.14:238][724]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.10.14:239][724]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.10.14:241][724]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.10.14:242][724]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.10.16:283][835]LogEditorTransaction: Undo Delete current selection
+[2020.11.06-03.10.16:284][835]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.10.16:286][835]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.10.16:286][835]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.11.21:970][692]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.21:971][692]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.11.35:578][503]LogEditorTransaction: Undo Move Node
+[2020.11.06-03.11.35:580][503]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.35:580][503]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.11.36:093][518]LogEditorTransaction: Undo Move Node
+[2020.11.06-03.11.36:095][518]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.36:095][518]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.11.36:674][552]LogEditorTransaction: Undo Move Node
+[2020.11.06-03.11.36:676][552]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.36:677][552]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.11.37:083][576]LogEditorTransaction: Undo Create Pin Link
+[2020.11.06-03.11.37:084][576]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.37:086][576]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.37:086][576]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.11.37:473][597]LogEditorTransaction: Undo Move Nodes
+[2020.11.06-03.11.37:476][597]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.37:476][597]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.11.38:053][631]LogEditorTransaction: Undo Move Node
+[2020.11.06-03.11.38:055][631]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.38:056][631]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.11.38:336][647]LogEditorTransaction: Undo Move Node
+[2020.11.06-03.11.38:338][647]LogBlueprintUserMessages: [BP_Obstacle_C_0] Hello
+[2020.11.06-03.11.38:338][647]LogBlueprintUserMessages: [BP_Obstacle_C_6] Hello
+[2020.11.06-03.12.05:957][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.11.06-03.12.06:014][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/TopDownExampleMap" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/TopDownExampleMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.11.06-03.12.06:076][881]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownExampleMap_Auto1F60788864CCB00BB32875FBC2D37905E.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/TopDownExampleMap_Auto1.umap'
+[2020.11.06-03.12.06:080][881]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/TopDownExampleMap' took 0.152
+[2020.11.06-03.12.06:080][881]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
+[2020.11.06-03.12.06:081][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/TopDownCharacter] ([1] browsable assets)...
+[2020.11.06-03.12.06:104][881]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TopDownCharacter.TopDownCharacter]
+[2020.11.06-03.12.06:104][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownCharacter]
+[2020.11.06-03.12.06:104][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownCharacter" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownCharacter_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.11.06-03.12.06:146][881]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownCharacter_Auto13295C8BE4E7221399E53B586FCA8F8F9.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownCharacter_Auto1.uasset'
+[2020.11.06-03.12.06:225][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Obstacle] ([1] browsable assets)...
+[2020.11.06-03.12.06:247][881]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle]
+[2020.11.06-03.12.06:247][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Obstacle]
+[2020.11.06-03.12.06:247][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obstacle" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/BP_Obstacle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.11.06-03.12.06:281][881]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_Obstacle_Auto1BE5E02F24EF69AEB6B817794F023D60D.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/BP_Obstacle_Auto1.uasset'
+[2020.11.06-03.12.06:294][881]LogFileHelpers: Auto-saving content packages took 0.214
+[2020.11.06-03.17.39:424][506]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.17.39:477][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.11.06-03.17.40:376][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obstacle" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset" SILENT=true
+[2020.11.06-03.17.40:405][556]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_Obstacle1E9317C64217D1C75F530A8E93043D03.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset'
+[2020.11.06-03.17.40:422][556]AssetCheck: New page: Asset Save: BP_Obstacle
+[2020.11.06-03.17.40:422][556]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle
+[2020.11.06-03.17.52:472][271]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.17.52:517][271]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.11.06-03.18.02:039][805]Cmd: TRANSACTION UNDO
+[2020.11.06-03.18.02:039][805]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.18.09:751][243]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.18.09:804][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.11.06-03.18.10:619][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Obstacle" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset" SILENT=true
+[2020.11.06-03.18.10:642][288]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_Obstacle69C9C2DE4B686AA3A55066B4B4A25568.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_Obstacle.uasset'
+[2020.11.06-03.18.10:653][288]AssetCheck: New page: Asset Save: BP_Obstacle
+[2020.11.06-03.18.10:653][288]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Obstacle.BP_Obstacle
+[2020.11.06-03.18.20:673][862]LogRenderer: Reallocating scene render targets to support 972x536 Format 10 NumSamples 1 (Frame:1).
+[2020.11.06-03.18.27:373][260]LogEditorTransaction: Undo Modify Component(s)
+[2020.11.06-03.18.33:949][613]Cmd: TRANSACTION UNDO
+[2020.11.06-03.18.33:949][613]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.18.54:721][798]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.18.54:776][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.11.06-03.19.47:362][836]BlueprintLog: New page: Compile BP_Obstacle
+[2020.11.06-03.19.47:364][836]LogBlueprint: Error: [Compiler BP_Obstacle] This blueprint (self) is not a RotatingMovementComponent, therefore ' Target ' must have a connection.
+[2020.11.06-03.19.47:364][836]LogBlueprint: Error: [Compiler BP_Obstacle] Variable node  Get PivotTranslation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.11.06-03.19.47:429][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.11.06-03.20.42:914][ 28]Cmd: DELETE
+[2020.11.06-03.20.42:914][ 28]Cmd: ACTOR DELETE
+[2020.11.06-03.20.42:916][ 28]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2020.11.06-03.20.42:946][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.11.06-03.20.42:948][ 28]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.11.06-03.20.42:949][ 28]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.45:864][202]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-03.20.46:629][246]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:646][247]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:662][248]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:679][249]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:696][250]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:713][251]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:763][254]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:813][257]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:846][259]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.46:946][265]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:012][269]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:063][272]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:530][300]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:563][302]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:579][303]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:597][304]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:613][305]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:630][306]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:646][307]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:663][308]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:680][309]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:696][310]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:713][311]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:746][313]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:780][315]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:796][316]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:830][318]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:863][320]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:880][321]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:913][323]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:930][324]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:963][326]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.47:996][328]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.48:030][330]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.48:081][333]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.48:146][337]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.20.48:262][343]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.21.03:225][237]Cmd: DELETE
+[2020.11.06-03.21.03:225][237]Cmd: ACTOR DELETE
+[2020.11.06-03.21.03:226][237]LogEditorActor: Deleted Actor: RecastNavMesh
+[2020.11.06-03.21.03:226][237]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2020.11.06-03.21.03:254][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.11.06-03.21.03:256][237]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.11.06-03.21.06:168][411]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.11.06-03.21.16:610][ 33]Cmd: TRANSACTION UNDO
+[2020.11.06-03.21.16:610][ 33]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.21.18:707][142]Cmd: TRANSACTION UNDO
+[2020.11.06-03.21.18:707][142]LogEditorTransaction: Undo Move Actors
+[2020.11.06-03.21.19:184][170]Cmd: TRANSACTION UNDO
+[2020.11.06-03.21.19:184][170]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.06-03.21.19:598][193]Cmd: TRANSACTION UNDO
+[2020.11.06-03.21.19:598][193]LogEditorTransaction: Undo Delete Actors
+[2020.11.06-03.21.19:606][193]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2020.11.06-03.21.20:035][217]Cmd: TRANSACTION UNDO
+[2020.11.06-03.21.20:035][217]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.06-03.21.20:604][250]Cmd: TRANSACTION UNDO
+[2020.11.06-03.21.20:604][250]LogEditorTransaction: Undo Move Actors
