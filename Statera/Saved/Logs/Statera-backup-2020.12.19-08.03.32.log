@@ -1,0 +1,1849 @@
+﻿Log file open, 12/19/20 11:06:25
+LogInit: Display: Running engine for game: Statera
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.457036
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.19-04.06.26:710][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.19-04.06.26:710][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.19-04.06.26:711][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.12.19-04.06.26:711][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.19-04.06.26:711][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.12.19-04.06.26:711][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.12.19-04.06.26:711][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.19-04.06.26:711][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.19-04.06.26:711][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.19-04.06.26:711][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.19-04.06.26:712][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.12.19-04.06.26:712][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.12.19-04.06.26:722][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.19-04.06.26:722][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.19-04.06.26:723][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.19-04.06.26:724][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.19-04.06.26:725][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.19-04.06.26:727][  0]LogHAL: Display: Platform has ~ 12 GB [12795875328 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.19-04.06.26:727][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.19-04.06.26:728][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.19-04.06.26:728][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Scalability.ini]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.19-04.06.26:729][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.19-04.06.26:734][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.19-04.06.26:734][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.19-04.06.26:734][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.19-04.06.26:734][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Work/Project_Statera/Statera/Saved/Config/Windows/Engine.ini]
+[2020.12.19-04.06.26:738][  0]LogInit: Computer: DESKTOP-BNLNCD8
+[2020.12.19-04.06.26:738][  0]LogInit: User: Muka
+[2020.12.19-04.06.26:740][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.19-04.06.26:740][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.19-04.06.26:740][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.12.19-04.06.26:741][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.19-04.06.26:741][  0]LogMemory: Process Physical Memory: 115.31 MB used, 115.32 MB peak
+[2020.12.19-04.06.26:741][  0]LogMemory: Process Virtual Memory: 96.11 MB used, 96.11 MB peak
+[2020.12.19-04.06.26:741][  0]LogMemory: Physical Memory: 6569.77 MB used,  5633.32 MB free, 12203.10 MB total
+[2020.12.19-04.06.26:741][  0]LogMemory: Virtual Memory: 5144.90 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.12.19-04.06.26:747][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.19-04.06.27:174][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.19-04.06.27:184][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.19-04.06.27:184][  0]LogInit: Using OS detected locale (en-GB).
+[2020.12.19-04.06.27:246][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.19-04.06.27:826][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.19-04.06.27:957][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.19-04.06.27:957][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.19-04.06.31:182][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.19-04.06.31:182][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.19-04.06.31:182][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.19-04.06.31:182][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.19-04.06.31:256][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX130' (Feature Level 11_0)
+[2020.12.19-04.06.31:256][  0]LogD3D11RHI:       4055/0/6101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.19-04.06.31:297][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.12.19-04.06.31:297][  0]LogD3D11RHI:       128/0/6101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.19-04.06.31:298][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.19-04.06.31:299][  0]LogD3D11RHI:       0/0/6101 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.19-04.06.31:299][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.19-04.06.31:308][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.19-04.06.31:308][  0]LogD3D11RHI:     GPU DeviceId: 0x174d (for the marketing name, search the web for "GPU Device Id")
+[2020.12.19-04.06.31:308][  0]LogWindows: EnumDisplayDevices:
+[2020.12.19-04.06.31:309][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.12.19-04.06.31:309][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.12.19-04.06.31:309][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.12.19-04.06.31:310][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.12.19-04.06.31:310][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX130
+[2020.12.19-04.06.31:310][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.12.19-04.06.31:310][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.12.19-04.06.31:310][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.12.19-04.06.31:377][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.19-04.06.31:378][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.19-04.06.31:458][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.19-04.06.31:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.19-04.06.31:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.19-04.06.31:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.19-04.06.31:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.19-04.06.31:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.19-04.06.31:966][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.19-04.06.31:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.19-04.06.31:993][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.19-04.06.32:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.19-04.06.32:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.19-04.06.32:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.19-04.06.32:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.19-04.06.32:068][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.19-04.06.32:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.19-04.06.32:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.19-04.06.32:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.19-04.06.32:128][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.19-04.06.32:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.19-04.06.32:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.19-04.06.32:158][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.19-04.06.32:230][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.19-04.06.32:476][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (D:/Work/Project_Statera/Statera/Intermediate/Shaders/WorkingDirectory/12156/).
+[2020.12.19-04.06.32:477][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Muka/AppData/Local/Temp/UnrealShaderWorkingDir/A5CD88DE4DDED6298C23A490B0E79E29/'.
+[2020.12.19-04.06.32:481][  0]LogXGEController: Cleaning working directory: C:/Users/Muka/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.19-04.06.32:481][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.19-04.06.32:482][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.19-04.06.32:482][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.19-04.06.36:569][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.19-04.06.36:789][  0]LogDerivedDataCache: Loaded boot cache 0.22s 76MB C:/Users/Muka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.19-04.06.36:789][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Muka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.19-04.06.36:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Work/Project_Statera/Statera/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.19-04.06.36:789][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.19-04.06.36:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Work/Project_Statera/Statera/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.19-04.06.36:789][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.19-04.06.36:822][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.19-04.06.36:822][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.19-04.06.36:822][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.19-04.06.36:824][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Muka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.19-04.06.36:824][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.19-04.06.36:824][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.19-04.06.36:900][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.19-04.06.36:921][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.19-04.06.37:027][  0]LogAssetRegistry: FAssetRegistry took 0.0091 seconds to start up
+[2020.12.19-04.06.37:910][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.19-04.06.38:392][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.19-04.06.38:392][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.19-04.06.38:392][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.19-04.06.38:392][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.19-04.06.38:394][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.19-04.06.38:509][  0]LogNetVersion: Statera 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1315094756)
+[2020.12.19-04.06.41:010][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000015EC666F140), frame # 0
+[2020.12.19-04.06.41:010][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015EC662EAC0), frame # 0
+[2020.12.19-04.06.41:019][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015EC6689C00), frame # 0
+[2020.12.19-04.06.41:243][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.094880 seconds
+[2020.12.19-04.06.41:293][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.19-04.06.41:293][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.19-04.06.41:293][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.19-04.06.43:343][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.19-04.06.43:723][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.12.19-04.06.43:725][  0]LogLinker: Warning: Failed to load '/Game/TopDownBP/TopDownOverview': Can't find file.
+[2020.12.19-04.06.43:725][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2020.12.19-04.06.43:828][  0]SourceControl: Source control is disabled
+[2020.12.19-04.06.43:828][  0]SourceControl: Source control is disabled
+[2020.12.19-04.06.43:856][  0]SourceControl: Source control is disabled
+[2020.12.19-04.06.43:870][  0]SourceControl: Source control is disabled
+[2020.12.19-04.06.43:931][  0]SourceControl: Source control is disabled
+[2020.12.19-04.06.44:835][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.19-04.06.44:885][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.19-04.06.44:885][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.19-04.06.45:051][  0]LogOcInput: OculusInput pre-init called
+[2020.12.19-04.06.45:081][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.19-04.06.45:081][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.19-04.06.45:373][  0]LogEngine: Initializing Engine...
+[2020.12.19-04.06.45:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.19-04.06.45:376][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.19-04.06.45:384][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.004 s
+[2020.12.19-04.06.45:785][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.19-04.06.45:884][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.19-04.06.45:884][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015EC81BDA00), frame # 0
+[2020.12.19-04.06.45:885][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015EC8210CC0), frame # 0
+[2020.12.19-04.06.45:913][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-04.06.45:913][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-04.06.45:913][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-04.06.45:913][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-04.06.45:913][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-04.06.45:913][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-04.06.45:913][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-04.06.45:913][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-04.06.45:917][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-04.06.45:917][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-04.06.45:965][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-04.06.45:965][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-04.06.45:999][  0]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-04.06.46:003][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-04.06.46:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-04.06.46:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-04.06.46:033][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-04.06.46:035][  0]LogInit: FAudioDevice initialized.
+[2020.12.19-04.06.46:037][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.19-04.06.46:124][  0]LogDerivedDataCache: Saved boot cache 0.09s 76MB C:/Users/Muka/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.19-04.06.46:128][  0]LogInit: Texture streaming: Enabled
+[2020.12.19-04.06.46:166][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.19-04.06.46:166][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.19-04.06.46:173][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.19-04.06.46:416][  0]LogInit: Transaction tracking system initialized
+[2020.12.19-04.06.46:890][  0]BlueprintLog: New page: Editor Load
+[2020.12.19-04.06.47:280][  0]LocalizationService: Localization service is disabled
+[2020.12.19-04.06.48:674][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Project_Statera/Statera/Content/' took 0.00s
+[2020.12.19-04.06.48:674][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.19-04.06.48:674][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.19-04.06.49:525][  0]SourceControl: Source control is disabled
+[2020.12.19-04.06.49:527][  0]LogUnrealEdMisc: Loading editor; pre map load, took 34.396
+[2020.12.19-04.06.49:529][  0]Cmd: MAP LOAD FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.19-04.06.49:532][  0]LightingResults: New page: Lighting Build
+[2020.12.19-04.06.49:546][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-04.06.49:548][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-04.06.49:551][  0]MapCheck: New page: Map Check
+[2020.12.19-04.06.49:551][  0]LightingResults: New page: Lighting Build
+[2020.12.19-04.06.49:582][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015EC81BDA00), frame # 0
+[2020.12.19-04.06.49:582][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015EC8210CC0), frame # 0
+[2020.12.19-04.06.49:583][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.19-04.06.51:322][  0]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-04.06.51:322][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015EB7E11000), frame # 0
+[2020.12.19-04.06.51:322][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015EB7E3E840), frame # 0
+[2020.12.19-04.06.51:383][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.19-04.06.51:398][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.12.19-04.06.51:414][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.12.19-04.06.51:414][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.19-04.06.51:415][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.738ms to complete.
+[2020.12.19-04.06.51:415][  0]LogFileHelpers: Loading map 'Map1' took 1.887
+[2020.12.19-04.06.51:478][  0]LogUnrealEdMisc: Total Editor Startup Time, took 36.347
+[2020.12.19-04.06.51:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-04.06.51:703][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-04.06.51:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-04.06.51:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-04.06.51:747][  0]LogCollectionManager: Loaded 0 collections in 0.001983 seconds
+[2020.12.19-04.06.51:798][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Project_Statera/Statera/Saved/Collections/' took 0.00s
+[2020.12.19-04.06.51:798][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Project_Statera/Statera/Content/Developers/Muka/Collections/' took 0.00s
+[2020.12.19-04.06.51:798][  0]LogFileCache: Scanning file cache for directory 'D:/Work/Project_Statera/Statera/Content/Collections/' took 0.00s
+[2020.12.19-04.06.51:798][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3427 classes and 821 folders.
+[2020.12.19-04.06.51:811][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.19-04.06.52:539][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.19-04.06.52:566][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2020.12.19-04.06.53:019][  0]LogSlate: Took 0.009903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.19-04.06.53:036][  0]LogSlate: Took 0.009686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.19-04.06.53:064][  0]LogSlate: Took 0.017601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.19-04.06.53:086][  0]LogSlate: Took 0.015867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.19-04.06.53:317][  0]LogRenderer: Reallocating scene render targets to support 972x464 Format 10 NumSamples 1 (Frame:1).
+[2020.12.19-04.06.53:603][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.19-04.06.53:603][  0]LogLoad: (Engine Initialization) Total time: 38.47 seconds
+[2020.12.19-04.06.53:603][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.19-04.06.53:722][  0]LogAssetRegistry: Asset discovery search completed in 16.6990 seconds
+[2020.12.19-04.06.53:736][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.12.19-04.06.53:767][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.19-04.06.53:877][  0]LogSlate: Took 0.008228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.19-04.06.55:006][  4]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.19-04.37.21:230][659]LogLinker: Warning: Failed to load '/Game/Map/Map1.Map1:PersistentLevel.Map1': Can't resolve asset name
+[2020.12.19-04.37.21:386][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-04.37.26:127][659]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 125 classes and 0 folders.
+[2020.12.19-04.37.28:872][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Unit.BP_Unit
+[2020.12.19-04.37.29:692][659]LogSlate: Took 0.016499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.19-04.37.29:919][660]LogSlate: Took 0.017470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.19-05.49.38:536][683]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-05.49.38:536][683]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-05.49.54:380][563]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Map/Map1.Map1:PersistentLevel.Map1
+[2020.12.19-05.50.09:042][394]LogEditorTransaction: Undo Move Node
+[2020.12.19-05.50.13:226][624]LogSlate: Took 0.025421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.19-05.50.13:227][624]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ฆ (U+0e06)'
+[2020.12.19-05.50.13:253][624]LogSlate: Took 0.024884 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.12.19-05.50.15:557][761]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-05.50.15:557][761]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-05.51.42:541][540]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.12.19-05.51.42:856][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/Map1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.19-05.51.43:548][540]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map1_Auto1FDD3C0DA413270428DC5FC8E2415A24A.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/Map1_Auto1.umap'
+[2020.12.19-05.51.43:571][540]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Map1' took 1.126
+[2020.12.19-05.51.43:571][540]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.126
+[2020.12.19-05.51.43:572][540]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TopDownGameMode] ([1] browsable assets)...
+[2020.12.19-05.51.43:572][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownGameMode]
+[2020.12.19-05.51.43:572][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.12.19-05.51.43:607][540]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode_Auto12D68104948552E93E2B7E4A32C523F50.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto1.uasset'
+[2020.12.19-05.51.43:626][540]LogFileHelpers: Auto-saving content packages took 0.055
+[2020.12.19-06.01.44:115][850]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2020.12.19-06.01.44:125][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Map1' took 0.076
+[2020.12.19-06.01.44:126][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TopDownGameMode] ([1] browsable assets)...
+[2020.12.19-06.01.44:126][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownGameMode]
+[2020.12.19-06.01.44:126][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.12.19-06.01.44:203][850]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode_Auto271DBA6E64C54D71AA16F8BBF918DA21D.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto2.uasset'
+[2020.12.19-06.01.44:245][850]LogFileHelpers: Auto-saving content packages took 0.120
+[2020.12.19-06.09.05:353][182]BlueprintLog: New page: Compile Map1
+[2020.12.19-06.09.05:366][182]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Could not find an event-dispatcher named "ED_Set Mode" in 'TopDownGameMode_C'.
+Make sure 'TopDownGameMode_C' has been compiled for  Call ED Set Mode
+[2020.12.19-06.09.05:470][182]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.12.19-06.09.07:905][325]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.09.07:989][325]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.12.19-06.09.21:004][ 98]BlueprintLog: New page: Compile Map1
+[2020.12.19-06.09.21:080][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.12.19-06.09.58:092][770]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.09.58:172][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.12.19-06.10.00:291][894]BlueprintLog: New page: Compile Map1
+[2020.12.19-06.10.00:361][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.12.19-06.10.59:528][353]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.10.59:606][353]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.12.19-06.11.26:341][927]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.11.26:423][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.12.19-06.11.37:724][588]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.11.37:738][588]LogBlueprint: Warning: [Compiler TopDownGameMode] Unable to find local variable with name 'Array' for  Get Array
+[2020.12.19-06.11.37:739][588]LogBlueprint: Error: [Compiler TopDownGameMode] The property associated with  Array  could not be found in '/Game/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2020.12.19-06.11.37:803][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.12.19-06.12.07:611][290]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.12.07:621][290]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Door  no longer exists on node  Set Door . Please refresh node or break links to remove pin.
+[2020.12.19-06.12.07:622][290]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Door  no longer exists on node  Set Door . Please refresh node or break links to remove pin.
+[2020.12.19-06.12.07:695][290]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.12.19-06.12.20:359][ 25]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.12.20:442][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.12.19-06.12.22:124][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-06.12.22:177][113]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode6F09320D485799C2133008BFDD8E8B1A.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-06.12.22:212][113]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-06.12.22:213][113]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-06.12.23:558][193]BlueprintLog: New page: Compile Map1
+[2020.12.19-06.12.23:628][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.12.19-06.12.24:151][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-06.12.24:194][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.12.19-06.12.24:294][222]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map16E037A0A4146E3A9D4154C8E07CF1C7A.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-06.12.24:375][222]LogFileHelpers: Saving map 'Map1' took 0.225
+[2020.12.19-06.12.24:398][222]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-06.12.24:398][222]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-06.12.25:675][297]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-06.12.25:723][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-06.12.25:740][297]PIE: New page: PIE session: Map1 (19 Dec 2020, 20:12:25)
+[2020.12.19-06.12.25:758][297]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.19-06.12.25:762][297]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.19-06.12.25:765][297]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-06.12.25:800][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034275s)
+[2020.12.19-06.12.25:804][297]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-06.12.25:805][297]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F1180EE00), frame # 44297
+[2020.12.19-06.12.25:805][297]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015EEF814180), frame # 44297
+[2020.12.19-06.12.25:805][297]LogPlayLevel: PIE: World Init took: (0.004297s)
+[2020.12.19-06.12.25:806][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.040978s)
+[2020.12.19-06.12.25:856][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.12.19-06.12.25:861][297]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-06.12.25:861][297]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-06.12.25:861][297]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-06.12.25:861][297]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-06.12.25:861][297]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-06.12.25:861][297]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-06.12.25:861][297]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-06.12.25:861][297]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-06.12.25:863][297]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-06.12.25:863][297]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-06.12.25:869][297]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-06.12.25:869][297]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-06.12.25:904][297]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-06.12.25:905][297]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-06.12.25:905][297]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-06.12.25:905][297]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-06.12.25:913][297]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-06.12.25:934][297]LogInit: FAudioDevice initialized.
+[2020.12.19-06.12.25:977][297]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-06.12.26:008][297]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-13.12.26
+[2020.12.19-06.12.26:011][297]LogWorld: Bringing up level for play took: 0.008032
+[2020.12.19-06.12.26:016][297]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.12.19-06.12.26:090][297]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0024 seconds. Added 20 classes and 0 folders.
+[2020.12.19-06.12.26:101][297]PIE: Server logged in
+[2020.12.19-06.12.26:109][297]PIE: Play in editor total start time 0.401 seconds.
+[2020.12.19-06.12.27:721][342]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	TopDownGameMode_C /Game/Map/UEDPIE_0_Map1.Map1:PersistentLevel.TopDownGameMode_C_0
+	Function /Game/Blueprints/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode:0000
+[2020.12.19-06.12.27:722][342]PIE: Error: Infinite loop detected. Blueprint:  TopDownGameMode Function:  Set Door Call Stack:  Show
+[2020.12.19-06.12.27:757][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-06.12.27:758][342]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-06.12.27:763][342]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-06.12.27:765][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-06.12.27:783][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-06.12.27:790][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-06.12.27:881][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-06.12.27:962][342]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015EEF814180), frame # 44342
+[2020.12.19-06.12.27:962][342]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F1180EE00), frame # 44342
+[2020.12.19-06.12.28:007][342]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.12.19-06.12.28:117][343]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.12.19-06.12.56:307][  7]LogSlate: Took 0.016079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.12.19-06.13.04:319][472]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.13.04:443][472]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.12.19-06.13.04:868][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-06.13.04:888][495]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode57E9C55E47D1164C6964C58BC8694546.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-06.13.04:905][495]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-06.13.04:905][495]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-06.13.06:048][560]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-06.13.06:069][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-06.13.06:069][560]PIE: New page: PIE session: Map1 (19 Dec 2020, 20:13:06)
+[2020.12.19-06.13.06:069][560]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-06.13.06:084][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015884s)
+[2020.12.19-06.13.06:085][560]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-06.13.06:085][560]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F258AA400), frame # 46560
+[2020.12.19-06.13.06:085][560]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F1B336E80), frame # 46560
+[2020.12.19-06.13.06:085][560]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2020.12.19-06.13.06:085][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.017232s)
+[2020.12.19-06.13.06:117][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.12.19-06.13.06:120][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-06.13.06:120][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-06.13.06:120][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-06.13.06:120][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-06.13.06:120][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-06.13.06:120][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-06.13.06:120][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-06.13.06:120][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-06.13.06:121][560]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-06.13.06:121][560]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-06.13.06:123][560]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-06.13.06:123][560]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-06.13.06:138][560]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-06.13.06:138][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-06.13.06:139][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-06.13.06:139][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-06.13.06:139][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-06.13.06:152][560]LogInit: FAudioDevice initialized.
+[2020.12.19-06.13.06:158][560]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-06.13.06:162][560]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-13.13.06
+[2020.12.19-06.13.06:162][560]LogWorld: Bringing up level for play took: 0.001795
+[2020.12.19-06.13.06:163][560]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.12.19-06.13.06:165][560]PIE: Server logged in
+[2020.12.19-06.13.06:166][560]PIE: Play in editor total start time 0.099 seconds.
+[2020.12.19-06.13.07:046][611]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	TopDownGameMode_C /Game/Map/UEDPIE_0_Map1.Map1:PersistentLevel.TopDownGameMode_C_0
+	Function /Game/Blueprints/TopDownGameMode.TopDownGameMode_C:ExecuteUbergraph_TopDownGameMode:0000
+[2020.12.19-06.13.07:046][611]PIE: Error: Infinite loop detected. Blueprint:  TopDownGameMode Function:  Set Door Call Stack:  Show
+[2020.12.19-06.13.07:074][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-06.13.07:074][611]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-06.13.07:074][611]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-06.13.07:075][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-06.13.07:081][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-06.13.07:085][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-06.13.07:127][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-06.13.07:128][611]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F1B336E80), frame # 46611
+[2020.12.19-06.13.07:128][611]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F258AA400), frame # 46611
+[2020.12.19-06.13.07:132][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA56BE1A0-4AD2-8615-8F6E-E1979EE7ED92%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=cb00d7384349ca913d6ad7bc4d548916%7C2e3baef721b549afafd41acf78fa1042%7Cc5079f7f-4947-404e-819e-cf741f4499a4&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: request failed, libcurl error: 0 (No error)
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15ea2d4ff70 [can pipeline])
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 1 (Re-using existing connection! (#44) with host datarouter.ol.epicgames.com)
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.243.67.50) port 443 (#44))
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 7 (Closing connection 44)
+[2020.12.19-06.13.07:193][612]LogHttp: Warning: 0000015EE2F1CF00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.12.19-06.13.07:194][612]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA56BE1A0-4AD2-8615-8F6E-E1979EE7ED92%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=cb00d7384349ca913d6ad7bc4d548916%7C2e3baef721b549afafd41acf78fa1042%7Cc5079f7f-4947-404e-819e-cf741f4499a4&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.12.19-06.13.07:195][612]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.12.19-06.14.23:678][973]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.14.23:730][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.12.19-06.14.25:249][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-06.14.25:271][ 60]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameModeE24E9D664CF9584CE4205B96E5BF5387.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-06.14.25:282][ 60]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-06.14.25:282][ 60]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-06.14.36:347][724]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.14.36:395][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.12.19-06.14.37:676][797]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-06.14.37:694][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-06.14.37:694][797]PIE: New page: PIE session: Map1 (19 Dec 2020, 20:14:37)
+[2020.12.19-06.14.37:723][797]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-06.14.37:738][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015421s)
+[2020.12.19-06.14.37:740][797]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-06.14.37:740][797]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F1BDC4C00), frame # 51797
+[2020.12.19-06.14.37:740][797]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F1A072340), frame # 51797
+[2020.12.19-06.14.37:740][797]LogPlayLevel: PIE: World Init took: (0.001501s)
+[2020.12.19-06.14.37:740][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.017109s)
+[2020.12.19-06.14.37:769][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.12.19-06.14.37:770][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-06.14.37:770][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-06.14.37:770][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-06.14.37:770][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-06.14.37:770][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-06.14.37:770][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-06.14.37:770][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-06.14.37:770][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-06.14.37:771][797]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-06.14.37:771][797]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-06.14.37:773][797]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-06.14.37:773][797]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-06.14.37:790][797]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-06.14.37:790][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-06.14.37:790][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-06.14.37:790][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-06.14.37:791][797]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-06.14.37:804][797]LogInit: FAudioDevice initialized.
+[2020.12.19-06.14.37:813][797]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-06.14.37:815][797]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-13.14.37
+[2020.12.19-06.14.37:815][797]LogWorld: Bringing up level for play took: 0.001395
+[2020.12.19-06.14.37:816][797]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.12.19-06.14.37:817][797]PIE: Server logged in
+[2020.12.19-06.14.37:818][797]PIE: Play in editor total start time 0.126 seconds.
+[2020.12.19-06.14.53:083][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-06.14.53:083][519]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-06.14.53:083][519]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-06.14.53:084][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-06.14.53:091][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-06.14.53:097][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-06.14.53:172][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-06.14.53:173][519]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F1A072340), frame # 52519
+[2020.12.19-06.14.53:173][519]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F1BDC4C00), frame # 52519
+[2020.12.19-06.14.53:178][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.12.19-06.14.53:227][520]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.12.19-06.15.37:695][160]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-06.15.37:748][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.12.19-06.15.38:928][227]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-06.15.38:946][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-06.15.38:946][227]PIE: New page: PIE session: Map1 (19 Dec 2020, 20:15:38)
+[2020.12.19-06.15.38:946][227]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-06.15.38:961][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014692s)
+[2020.12.19-06.15.38:962][227]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-06.15.38:962][227]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015EEDF58200), frame # 55227
+[2020.12.19-06.15.38:962][227]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F1BC711C0), frame # 55227
+[2020.12.19-06.15.38:963][227]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2020.12.19-06.15.38:963][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.016361s)
+[2020.12.19-06.15.38:993][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.12.19-06.15.38:995][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-06.15.38:995][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-06.15.38:995][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-06.15.38:995][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-06.15.38:995][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-06.15.38:995][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-06.15.38:995][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-06.15.38:995][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-06.15.38:995][227]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-06.15.38:995][227]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-06.15.38:997][227]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-06.15.38:997][227]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-06.15.39:014][227]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-06.15.39:014][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-06.15.39:014][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-06.15.39:014][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-06.15.39:014][227]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-06.15.39:027][227]LogInit: FAudioDevice initialized.
+[2020.12.19-06.15.39:036][227]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-06.15.39:039][227]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-13.15.39
+[2020.12.19-06.15.39:039][227]LogWorld: Bringing up level for play took: 0.002254
+[2020.12.19-06.15.39:040][227]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.12.19-06.15.39:041][227]PIE: Server logged in
+[2020.12.19-06.15.39:042][227]PIE: Play in editor total start time 0.096 seconds.
+[2020.12.19-06.15.50:462][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-06.15.50:462][908]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-06.15.50:462][908]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-06.15.50:463][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-06.15.50:474][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-06.15.50:478][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-06.15.50:523][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-06.15.50:524][908]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F1BC711C0), frame # 55908
+[2020.12.19-06.15.50:524][908]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015EEDF58200), frame # 55908
+[2020.12.19-06.15.50:526][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.12.19-06.15.50:556][909]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.12.19-06.15.52:011][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-06.15.52:042][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.12.19-06.15.52:081][995]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map1AA1A7BAF49A7C5E2C043ACBEF3DBAE3E.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-06.15.52:114][995]LogFileHelpers: Saving map 'Map1' took 0.103
+[2020.12.19-06.15.52:125][995]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-06.15.52:125][995]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-06.15.56:409][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-06.15.56:428][249]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode5BE92FA54433FD45157A0B9360E35E85.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-06.15.56:444][249]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-06.15.56:444][249]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-06.54.42:833][872]BlueprintLog: New page: Compile Map1
+[2020.12.19-06.54.42:938][872]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.12.19-06.54.46:732][ 96]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2020.12.19-06.57.11:435][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.12.19-06.57.11:438][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/Map1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.19-06.57.11:489][297]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map1_Auto3CB330A0A42E3AAD22999B5A339A0F23E.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/Map1_Auto3.umap'
+[2020.12.19-06.57.11:491][297]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Map1' took 0.089
+[2020.12.19-06.57.11:491][297]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.089
+[2020.12.19-06.57.11:662][306]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-06.57.35:485][503]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.19-07.00.36:924][  0]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetAllActorsOfClass' [Element not found.]
+[2020.12.19-07.01.04:960][186]BlueprintLog: New page: Compile Map1
+[2020.12.19-07.01.05:011][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.12.19-07.01.06:295][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-07.01.06:327][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.12.19-07.01.07:021][260]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map10FE87F6644496E90E99044AA2454CF4E.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-07.01.07:056][260]LogFileHelpers: Saving map 'Map1' took 0.761
+[2020.12.19-07.01.07:097][260]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-07.01.07:097][260]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-07.01.08:160][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-07.01.08:190][320]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode50DF50ED4D15B2746ECBA9A7949BA17E.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-07.01.08:206][320]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-07.01.08:206][320]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-07.01.09:155][377]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.01.09:213][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.12.19-07.03.26:083][516]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-07.03.57:180][ 89]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.19-07.11.06:544][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.12.19-07.11.06:546][726]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Map1' took 0.040
+[2020.12.19-07.11.06:546][726]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TopDownGameMode] ([1] browsable assets)...
+[2020.12.19-07.11.06:547][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownGameMode]
+[2020.12.19-07.11.06:547][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.12.19-07.11.06:578][726]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode_Auto4A6E029B945D8FD3B6D7284975D3A0147.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto4.uasset'
+[2020.12.19-07.11.06:885][726]LogFileHelpers: Auto-saving content packages took 0.339
+[2020.12.19-07.12.49:989][911]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.12.50:048][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.12.19-07.12.58:738][425]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.13.02:630][652]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint2)
+[2020.12.19-07.13.03:462][699]Cmd: DELETE
+[2020.12.19-07.13.03:462][699]Cmd: ACTOR DELETE
+[2020.12.19-07.13.03:499][699]LogEditorActor: Deleted Actor: TargetPoint
+[2020.12.19-07.13.03:537][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.12.19-07.13.03:540][699]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.12.19-07.13.05:454][814]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2020.12.19-07.13.06:110][851]Cmd: DELETE
+[2020.12.19-07.13.06:111][851]Cmd: ACTOR DELETE
+[2020.12.19-07.13.06:112][851]LogEditorActor: Deleted Actor: TargetPoint
+[2020.12.19-07.13.06:144][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.19-07.13.06:145][851]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.12.19-07.15.12:439][857]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.15.36:694][978]LogEditorViewport: Clicking on Actor (LMB): BP_Obstacle_C (BP_Obstacle)
+[2020.12.19-07.16.45:088][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-07.16.45:116][901]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode48B661BC4E51CD43BA03E3B5CA546F14.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-07.16.45:133][901]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-07.16.45:133][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-07.17.44:718][446]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.17.44:738][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.17.44:738][446]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:17:44)
+[2020.12.19-07.17.44:738][446]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.17.44:756][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017289s)
+[2020.12.19-07.17.44:757][446]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.17.44:757][446]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F48069400), frame # 120446
+[2020.12.19-07.17.44:757][446]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F59DE8540), frame # 120446
+[2020.12.19-07.17.44:758][446]LogPlayLevel: PIE: World Init took: (0.001844s)
+[2020.12.19-07.17.44:758][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.019518s)
+[2020.12.19-07.17.44:798][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.12.19-07.17.44:800][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.17.44:800][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.17.44:800][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.17.44:801][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.17.44:801][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.17.44:801][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.17.44:801][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.17.44:801][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.17.44:801][446]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.17.44:801][446]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.17.44:805][446]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.17.44:805][446]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.17.44:824][446]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.17.44:824][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.17.44:824][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.17.44:824][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.17.44:825][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.17.44:840][446]LogInit: FAudioDevice initialized.
+[2020.12.19-07.17.44:856][446]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.17.44:859][446]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.17.44
+[2020.12.19-07.17.44:859][446]LogWorld: Bringing up level for play took: 0.001924
+[2020.12.19-07.17.44:860][446]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.12.19-07.17.44:862][446]PIE: Server logged in
+[2020.12.19-07.17.44:863][446]PIE: Play in editor total start time 0.126 seconds.
+[2020.12.19-07.17.45:580][487]Cmd: pxvis collision 1
+[2020.12.19-07.17.45:581][487]Flag set.
+[2020.12.19-07.17.45:581][487]Num Actors: 33
+[2020.12.19-07.18.00:141][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.18.00:141][359]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.18.00:141][359]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.18.00:141][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.18.00:147][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.18.00:152][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.18.00:200][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.18.00:201][359]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F59DE8540), frame # 121359
+[2020.12.19-07.18.00:201][359]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F48069400), frame # 121359
+[2020.12.19-07.18.00:204][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.12.19-07.18.00:236][360]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.12.19-07.18.01:397][429]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2020.12.19-07.18.04:837][628]Cmd: TRANSACTION UNDO
+[2020.12.19-07.18.04:837][628]LogEditorTransaction: Undo Attach actors
+[2020.12.19-07.18.04:841][628]LogSceneComponent: Error: Component 'SceneComponent /Game/Map/Map1.Map1:PersistentLevel.SkySphereBlueprint.Base' has 'SceneComponent /Game/Map/Map1.Map1:PersistentLevel.TargetPoint_2.SceneComp' in its AttachChildren array, however, 'SceneComponent /Game/Map/Map1.Map1:PersistentLevel.TargetPoint_2.SceneComp' believes it is not attached to anything
+[2020.12.19-07.21.22:656][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.12.19-07.21.22:660][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/Map1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.19-07.21.23:949][285]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map1_Auto54BC9704549145028D66C15B602CCE343.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/Map1_Auto5.umap'
+[2020.12.19-07.21.23:973][285]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Map1' took 1.364
+[2020.12.19-07.21.23:973][285]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.364
+[2020.12.19-07.21.23:973][285]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TopDownGameMode] ([1] browsable assets)...
+[2020.12.19-07.21.23:973][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownGameMode]
+[2020.12.19-07.21.23:973][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.12.19-07.21.23:995][285]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode_Auto5973DBA6E4A5EC2B9D7C5C883758BA9CC.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto5.uasset'
+[2020.12.19-07.21.23:996][285]LogFileHelpers: Auto-saving content packages took 0.023
+[2020.12.19-07.30.59:781][437]BlueprintLog: New page: Compile BP_GridFloor
+[2020.12.19-07.30.59:933][437]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.12.19-07.31.00:782][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridFloor" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset" SILENT=true
+[2020.12.19-07.31.01:099][478]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_GridFloor37A1E2ED44215BDA697DFEBE64933809.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset'
+[2020.12.19-07.31.01:123][478]AssetCheck: New page: Asset Save: BP_GridFloor
+[2020.12.19-07.31.01:123][478]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-07.31.47:419][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.12.19-07.31.47:420][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/Map1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.19-07.31.47:510][852]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map1_Auto620CECAF646342F804EB09B8F04C4327B.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Map/Map1_Auto6.umap'
+[2020.12.19-07.31.47:518][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Map1' took 0.136
+[2020.12.19-07.31.47:518][852]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.136
+[2020.12.19-07.31.47:519][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TopDownGameMode] ([1] browsable assets)...
+[2020.12.19-07.31.47:519][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TopDownGameMode]
+[2020.12.19-07.31.47:519][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.12.19-07.31.47:542][852]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode_Auto6E303CB5F43F12DF696948EB51F981D2B.tmp' to 'D:/Work/Project_Statera/Statera/Saved/Autosaves/Game/Blueprints/TopDownGameMode_Auto6.uasset'
+[2020.12.19-07.31.47:543][852]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.12.19-07.31.51:721][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-07.31.51:742][999]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode7117933F4C3A89C8910C10962DD483EE.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-07.31.51:758][999]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-07.31.51:758][999]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-07.33.01:147][105]LogEditorTransaction: Undo Delete current selection
+[2020.12.19-07.33.03:870][252]LogEditorTransaction: Undo Move Node
+[2020.12.19-07.33.04:430][284]LogEditorTransaction: Undo Add Node
+[2020.12.19-07.34.56:841][958]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.34.56:909][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.12.19-07.36.22:935][ 75]LogEditorTransaction: Undo Move Node
+[2020.12.19-07.36.51:811][785]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.36.51:871][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.12.19-07.36.52:781][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-07.36.52:823][837]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode45CFC5614796EF4B1810B0AA7194676A.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-07.36.52:837][837]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-07.36.52:837][837]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-07.36.53:664][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-07.36.53:699][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.12.19-07.36.53:783][885]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map1659BCC8E4C7C30A57F8D0FB9C04C114B.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-07.36.53:817][885]LogFileHelpers: Saving map 'Map1' took 0.153
+[2020.12.19-07.36.53:828][885]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-07.36.53:828][885]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-07.36.57:045][ 72]Cmd: DELETE
+[2020.12.19-07.36.57:045][ 72]Cmd: ACTOR DELETE
+[2020.12.19-07.36.57:047][ 72]LogEditorActor: Deleted Actor: TargetPoint
+[2020.12.19-07.36.57:082][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.12.19-07.36.57:084][ 72]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.12.19-07.36.58:115][134]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.37.07:889][711]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor3)
+[2020.12.19-07.37.14:662][ 58]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Direction.Direction
+[2020.12.19-07.37.25:140][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Direction" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/Direction.uasset" SILENT=true
+[2020.12.19-07.37.25:155][666]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/DirectionEC85F67F45481A2B5BCF44AD9822A677.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/Direction.uasset'
+[2020.12.19-07.37.25:167][666]AssetCheck: New page: Asset Save: Direction
+[2020.12.19-07.37.25:167][666]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Direction.Direction
+[2020.12.19-07.37.27:010][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-07.37.27:047][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.12.19-07.37.27:087][773]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map12B5872B541FFBA81C65DDFB449C5D143.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-07.37.27:135][773]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-07.37.27:135][773]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-07.37.28:587][859]BlueprintLog: New page: Compile BP_GridFloor
+[2020.12.19-07.37.28:670][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.12.19-07.37.29:171][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridFloor" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset" SILENT=true
+[2020.12.19-07.37.29:216][885]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_GridFloor281802CE4CA66927389598A8882EB1A6.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset'
+[2020.12.19-07.37.29:263][885]AssetCheck: New page: Asset Save: BP_GridFloor
+[2020.12.19-07.37.29:263][885]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-07.37.30:286][947]BlueprintLog: New page: Compile Map1
+[2020.12.19-07.37.30:341][947]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.12.19-07.37.30:806][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-07.37.30:839][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.12.19-07.37.30:877][974]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map11A17C0094E5A7DE66549BDABA840EF0A.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-07.37.30:911][974]LogFileHelpers: Saving map 'Map1' took 0.105
+[2020.12.19-07.37.30:921][974]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-07.37.30:921][974]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-07.37.34:400][178]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.37.34:423][178]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.19-07.37.34:426][178]LogPlayLevel: [PlayLevel] Compiling BP_GridPath before play...
+[2020.12.19-07.37.34:462][178]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.12.19-07.37.34:499][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.12.19-07.37.34:502][178]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (2 blueprints)
+[2020.12.19-07.37.34:502][178]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:37:34)
+[2020.12.19-07.37.34:502][178]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.37.34:518][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015883s)
+[2020.12.19-07.37.34:520][178]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.37.34:520][178]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F47F39C00), frame # 155178
+[2020.12.19-07.37.34:520][178]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F3EF78E00), frame # 155178
+[2020.12.19-07.37.34:520][178]LogPlayLevel: PIE: World Init took: (0.001952s)
+[2020.12.19-07.37.34:520][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.018001s)
+[2020.12.19-07.37.34:557][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.12.19-07.37.34:558][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.37.34:558][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.37.34:558][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.37.34:558][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.37.34:558][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.37.34:558][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.37.34:558][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.37.34:558][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.37.34:558][178]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.37.34:558][178]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.37.34:561][178]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.37.34:561][178]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.37.34:581][178]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.37.34:581][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.37.34:581][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.37.34:581][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.37.34:581][178]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.37.34:596][178]LogInit: FAudioDevice initialized.
+[2020.12.19-07.37.34:604][178]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.37.34:607][178]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.37.34
+[2020.12.19-07.37.34:607][178]LogWorld: Bringing up level for play took: 0.001664
+[2020.12.19-07.37.34:607][178]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.12.19-07.37.34:611][178]PIE: Server logged in
+[2020.12.19-07.37.34:612][178]PIE: Play in editor total start time 0.194 seconds.
+[2020.12.19-07.37.44:521][744]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.37.55:906][364]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.38.05:186][887]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.38.14:341][381]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor3)
+[2020.12.19-07.38.25:390][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.38.25:390][961]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.38.25:392][961]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.38.25:392][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.38.25:402][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.38.25:410][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.38.25:462][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.38.25:493][961]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F3EF78E00), frame # 157961
+[2020.12.19-07.38.25:493][961]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F47F39C00), frame # 157961
+[2020.12.19-07.38.25:498][961]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.12.19-07.38.25:553][962]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.12.19-07.38.46:581][219]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.38.48:545][331]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.38.51:294][492]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor3)
+[2020.12.19-07.38.53:697][631]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.19-07.38.55:503][735]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor3)
+[2020.12.19-07.38.58:124][889]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.38.59:056][942]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor3)
+[2020.12.19-07.39.14:096][820]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.39.14:130][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.39.14:130][820]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:39:14)
+[2020.12.19-07.39.14:130][820]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.39.14:156][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026018s)
+[2020.12.19-07.39.14:158][820]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.39.14:159][820]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F6A625400), frame # 160820
+[2020.12.19-07.39.14:160][820]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F1A3360C0), frame # 160820
+[2020.12.19-07.39.14:161][820]LogPlayLevel: PIE: World Init took: (0.004057s)
+[2020.12.19-07.39.14:161][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.030367s)
+[2020.12.19-07.39.14:222][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.12.19-07.39.14:226][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.39.14:226][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.39.14:226][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.39.14:226][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.39.14:226][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.39.14:226][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.39.14:226][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.39.14:226][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.39.14:227][820]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.39.14:227][820]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.39.14:230][820]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.39.14:230][820]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.39.14:261][820]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.39.14:262][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.39.14:262][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.39.14:262][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.39.14:262][820]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.39.14:286][820]LogInit: FAudioDevice initialized.
+[2020.12.19-07.39.14:301][820]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.39.14:305][820]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.39.14
+[2020.12.19-07.39.14:305][820]LogWorld: Bringing up level for play took: 0.002575
+[2020.12.19-07.39.14:305][820]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.12.19-07.39.14:309][820]PIE: Server logged in
+[2020.12.19-07.39.14:311][820]PIE: Play in editor total start time 0.182 seconds.
+[2020.12.19-07.39.19:915][126]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.39.26:150][461]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.39.35:844][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.19-07.39.38:047][119]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.39.44:641][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.39.44:641][480]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.39.44:641][480]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.39.44:641][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.39.44:657][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.39.44:663][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.39.44:710][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.39.44:744][480]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F1A3360C0), frame # 162480
+[2020.12.19-07.39.44:744][480]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F6A625400), frame # 162480
+[2020.12.19-07.39.44:749][480]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.12.19-07.39.44:814][481]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.12.19-07.39.47:257][625]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.39.49:579][757]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor3)
+[2020.12.19-07.39.51:870][887]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.39.51:901][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.39.51:901][887]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:39:51)
+[2020.12.19-07.39.51:901][887]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.39.51:926][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025814s)
+[2020.12.19-07.39.51:929][887]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.39.51:929][887]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F24C7C400), frame # 162887
+[2020.12.19-07.39.51:929][887]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F0E1EEC00), frame # 162887
+[2020.12.19-07.39.51:930][887]LogPlayLevel: PIE: World Init took: (0.003049s)
+[2020.12.19-07.39.51:930][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.029197s)
+[2020.12.19-07.39.51:989][887]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.12.19-07.39.51:993][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.39.51:993][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.39.51:994][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.39.51:994][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.39.51:994][887]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.39.51:994][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.39.51:994][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.39.51:994][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.39.51:994][887]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.39.51:994][887]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.39.51:998][887]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.39.51:998][887]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.39.52:030][887]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.39.52:031][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.39.52:031][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.39.52:031][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.39.52:032][887]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.39.52:060][887]LogInit: FAudioDevice initialized.
+[2020.12.19-07.39.52:073][887]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.39.52:077][887]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.39.52
+[2020.12.19-07.39.52:077][887]LogWorld: Bringing up level for play took: 0.002707
+[2020.12.19-07.39.52:078][887]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.12.19-07.39.52:081][887]PIE: Server logged in
+[2020.12.19-07.39.52:083][887]PIE: Play in editor total start time 0.183 seconds.
+[2020.12.19-07.40.04:840][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.40.04:840][594]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.40.04:841][594]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.40.04:841][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.40.04:853][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.40.04:860][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.40.04:915][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.40.04:946][594]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F0E1EEC00), frame # 163594
+[2020.12.19-07.40.04:947][594]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F24C7C400), frame # 163594
+[2020.12.19-07.40.04:952][594]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.12.19-07.40.05:004][595]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.12.19-07.40.06:931][706]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.40.08:212][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.19-07.40.08:668][801]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.19-07.40.09:089][824]Cmd: TRANSACTION UNDO
+[2020.12.19-07.40.09:090][824]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.19-07.40.10:122][863]Cmd: TRANSACTION UNDO
+[2020.12.19-07.40.10:122][863]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.19-07.40.11:399][939]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.40.13:602][ 68]Cmd: TRANSACTION UNDO
+[2020.12.19-07.40.13:602][ 68]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.19-07.40.14:003][ 78]Cmd: TRANSACTION UNDO
+[2020.12.19-07.40.14:003][ 78]LogEditorTransaction: Undo Clear Children
+[2020.12.19-07.40.14:504][103]Cmd: TRANSACTION UNDO
+[2020.12.19-07.40.14:504][103]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.19-07.40.15:633][167]Cmd: TRANSACTION UNDO
+[2020.12.19-07.40.15:633][167]LogEditorTransaction: Undo Clear Children
+[2020.12.19-07.40.17:143][254]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.19-07.40.20:564][452]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.40.20:596][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.40.20:596][452]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:40:20)
+[2020.12.19-07.40.20:596][452]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.40.20:623][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026935s)
+[2020.12.19-07.40.20:625][452]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.40.20:625][452]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F55E1CA00), frame # 164452
+[2020.12.19-07.40.20:625][452]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F47B2B4C0), frame # 164452
+[2020.12.19-07.40.20:625][452]LogPlayLevel: PIE: World Init took: (0.002360s)
+[2020.12.19-07.40.20:625][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.029529s)
+[2020.12.19-07.40.20:682][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.12.19-07.40.20:688][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.40.20:688][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.40.20:688][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.40.20:688][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.40.20:688][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.40.20:688][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.40.20:688][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.40.20:688][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.40.20:689][452]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.40.20:689][452]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.40.20:692][452]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.40.20:692][452]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.40.20:721][452]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.40.20:721][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.40.20:721][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.40.20:721][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.40.20:722][452]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.40.20:747][452]LogInit: FAudioDevice initialized.
+[2020.12.19-07.40.20:757][452]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.40.20:761][452]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.40.20
+[2020.12.19-07.40.20:761][452]LogWorld: Bringing up level for play took: 0.002808
+[2020.12.19-07.40.20:761][452]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.12.19-07.40.20:765][452]PIE: Server logged in
+[2020.12.19-07.40.20:766][452]PIE: Play in editor total start time 0.172 seconds.
+[2020.12.19-07.40.28:186][855]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.40.50:041][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.40.50:041][ 84]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.40.50:041][ 84]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.40.50:042][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.40.50:052][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.40.50:059][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.40.50:137][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.40.50:138][ 84]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F47B2B4C0), frame # 166084
+[2020.12.19-07.40.50:138][ 84]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F55E1CA00), frame # 166084
+[2020.12.19-07.40.50:144][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.12.19-07.40.50:205][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.12.19-07.42.01:505][228]LogEditorTransaction: Undo Move Node
+[2020.12.19-07.42.02:375][260]LogEditorTransaction: Undo Split Struct Pin
+[2020.12.19-07.43.31:667][513]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.43.31:778][513]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.12.19-07.43.33:898][634]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.43.33:934][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.43.33:934][634]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:43:33)
+[2020.12.19-07.43.33:934][634]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.43.33:961][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026544s)
+[2020.12.19-07.43.33:963][634]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.43.33:963][634]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F3191D200), frame # 175634
+[2020.12.19-07.43.33:963][634]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F568E34C0), frame # 175634
+[2020.12.19-07.43.33:963][634]LogPlayLevel: PIE: World Init took: (0.002495s)
+[2020.12.19-07.43.33:963][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.029307s)
+[2020.12.19-07.43.34:029][634]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2020.12.19-07.43.34:033][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.43.34:033][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.43.34:033][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.43.34:033][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.43.34:033][634]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.43.34:033][634]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.43.34:033][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.43.34:033][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.43.34:034][634]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.43.34:034][634]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.43.34:037][634]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.43.34:037][634]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.43.34:087][634]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.43.34:088][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.43.34:088][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.43.34:088][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.43.34:089][634]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.43.34:113][634]LogInit: FAudioDevice initialized.
+[2020.12.19-07.43.34:122][634]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.43.34:126][634]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.43.34
+[2020.12.19-07.43.34:126][634]LogWorld: Bringing up level for play took: 0.002814
+[2020.12.19-07.43.34:127][634]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.12.19-07.43.34:133][634]PIE: Server logged in
+[2020.12.19-07.43.34:134][634]PIE: Play in editor total start time 0.201 seconds.
+[2020.12.19-07.44.12:080][687]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor2)
+[2020.12.19-07.44.21:352][179]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor3)
+[2020.12.19-07.44.24:143][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.44.24:143][328]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.44.24:143][328]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.44.24:144][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.44.24:159][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.44.24:166][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.44.24:244][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.44.24:245][328]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F568E34C0), frame # 178328
+[2020.12.19-07.44.24:245][328]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F3191D200), frame # 178328
+[2020.12.19-07.44.24:251][328]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.12.19-07.44.24:309][329]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.12.19-07.44.29:669][645]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.44.29:773][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.12.19-07.44.30:936][707]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.44.30:970][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.44.30:970][707]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:44:30)
+[2020.12.19-07.44.30:971][707]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.44.30:997][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026506s)
+[2020.12.19-07.44.30:999][707]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.44.30:999][707]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F2E9C6800), frame # 178707
+[2020.12.19-07.44.30:999][707]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F5F0516C0), frame # 178707
+[2020.12.19-07.44.31:000][707]LogPlayLevel: PIE: World Init took: (0.002362s)
+[2020.12.19-07.44.31:000][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.029137s)
+[2020.12.19-07.44.31:056][707]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.12.19-07.44.31:058][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.44.31:058][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.44.31:058][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.44.31:059][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.44.31:059][707]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.44.31:059][707]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.44.31:059][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.44.31:059][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.44.31:060][707]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.44.31:060][707]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.44.31:063][707]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.44.31:063][707]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.44.31:093][707]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.44.31:093][707]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.44.31:094][707]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.44.31:094][707]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.44.31:094][707]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.44.31:118][707]LogInit: FAudioDevice initialized.
+[2020.12.19-07.44.31:126][707]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.44.31:131][707]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.44.31
+[2020.12.19-07.44.31:131][707]LogWorld: Bringing up level for play took: 0.003815
+[2020.12.19-07.44.31:132][707]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.12.19-07.44.31:135][707]PIE: Server logged in
+[2020.12.19-07.44.31:137][707]PIE: Play in editor total start time 0.168 seconds.
+[2020.12.19-07.44.46:050][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.44.46:050][502]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.44.46:051][502]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.44.46:051][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.44.46:063][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.44.46:069][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.44.46:148][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.44.46:149][502]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F5F0516C0), frame # 179502
+[2020.12.19-07.44.46:149][502]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F2E9C6800), frame # 179502
+[2020.12.19-07.44.46:156][502]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2020.12.19-07.44.46:213][503]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.12.19-07.44.46:879][538]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.45.36:888][461]BlueprintLog: New page: Compile BP_GridFloor
+[2020.12.19-07.45.37:047][461]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2020.12.19-07.45.37:421][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridFloor" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset" SILENT=true
+[2020.12.19-07.45.38:207][477]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_GridFloorD47D7DE24D06E31A3BA8BF877B6DEA13.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset'
+[2020.12.19-07.45.38:222][477]AssetCheck: New page: Asset Save: BP_GridFloor
+[2020.12.19-07.45.38:222][477]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-07.45.57:725][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridFloor" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset" SILENT=true
+[2020.12.19-07.45.57:794][574]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_GridFloorB03804BE4BBF5BED1459208A2BE98D0B.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset'
+[2020.12.19-07.45.57:813][574]AssetCheck: New page: Asset Save: BP_GridFloor
+[2020.12.19-07.45.57:813][574]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-07.48.00:572][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridFloor" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset" SILENT=true
+[2020.12.19-07.48.00:610][728]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_GridFloor439A642A4F554863718ADABEF37DE910.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset'
+[2020.12.19-07.48.00:622][728]AssetCheck: New page: Asset Save: BP_GridFloor
+[2020.12.19-07.48.00:622][728]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-07.48.01:451][778]BlueprintLog: New page: Compile BP_GridFloor
+[2020.12.19-07.48.01:537][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.12.19-07.49.28:430][925]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.49.28:499][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.12.19-07.49.29:033][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-07.49.29:066][954]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameModeFE53772D421BE6A543151AA265390373.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-07.49.29:082][954]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-07.49.29:082][954]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-07.49.30:130][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.49.30:149][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.49.30:149][ 16]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:49:30)
+[2020.12.19-07.49.30:149][ 16]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.49.30:165][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016696s)
+[2020.12.19-07.49.30:166][ 16]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.49.30:166][ 16]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F12747400), frame # 196016
+[2020.12.19-07.49.30:166][ 16]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F5CD55440), frame # 196016
+[2020.12.19-07.49.30:166][ 16]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2020.12.19-07.49.30:166][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.018451s)
+[2020.12.19-07.49.30:205][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.12.19-07.49.30:207][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.49.30:207][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.49.30:207][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.49.30:207][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.49.30:207][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.49.30:207][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.49.30:207][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.49.30:207][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.49.30:208][ 16]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.49.30:208][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.49.30:211][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.49.30:211][ 16]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.49.30:231][ 16]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.49.30:231][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.49.30:231][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.49.30:231][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.49.30:231][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.49.30:245][ 16]LogInit: FAudioDevice initialized.
+[2020.12.19-07.49.30:256][ 16]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.49.30:259][ 16]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.49.30
+[2020.12.19-07.49.30:259][ 16]LogWorld: Bringing up level for play took: 0.001808
+[2020.12.19-07.49.30:260][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.12.19-07.49.30:264][ 16]LogBlueprintUserMessages: [TopDownGameMode_C_0] Hello
+[2020.12.19-07.49.30:264][ 16]LogBlueprintUserMessages: [TopDownGameMode_C_0] Hello
+[2020.12.19-07.49.30:264][ 16]LogBlueprintUserMessages: [TopDownGameMode_C_0] Hello
+[2020.12.19-07.49.30:264][ 16]PIE: Server logged in
+[2020.12.19-07.49.30:265][ 16]PIE: Play in editor total start time 0.118 seconds.
+[2020.12.19-07.49.32:269][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.49.32:270][132]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.49.32:270][132]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.49.32:270][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.49.32:282][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.49.32:286][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.49.32:333][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.49.32:334][132]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F5CD55440), frame # 196132
+[2020.12.19-07.49.32:334][132]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F12747400), frame # 196132
+[2020.12.19-07.49.32:337][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.12.19-07.49.32:373][133]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.12.19-07.49.40:978][642]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.49.41:039][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.12.19-07.49.42:363][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-07.49.42:389][718]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode556DDFE54E2995AA540BB982084C5D62.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-07.49.42:404][718]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-07.49.42:405][718]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-07.49.43:690][779]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.49.43:876][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.49.43:876][779]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:49:43)
+[2020.12.19-07.49.43:877][779]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.49.44:009][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.131441s)
+[2020.12.19-07.49.44:023][779]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.49.44:024][779]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F54CB7800), frame # 196779
+[2020.12.19-07.49.44:025][779]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F76687380), frame # 196779
+[2020.12.19-07.49.44:027][779]LogPlayLevel: PIE: World Init took: (0.016821s)
+[2020.12.19-07.49.44:028][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.150584s)
+[2020.12.19-07.49.44:291][779]LogUObjectHash: Compacting FUObjectHashTables data took  30.56ms
+[2020.12.19-07.49.44:301][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.49.44:302][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.49.44:302][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.49.44:302][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.49.44:303][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.49.44:303][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.49.44:303][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.49.44:304][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.49.44:307][779]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.49.44:308][779]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.49.44:328][779]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.49.44:329][779]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.49.44:487][779]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.49.44:490][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.49.44:490][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.49.44:491][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.49.44:494][779]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.49.44:615][779]LogInit: FAudioDevice initialized.
+[2020.12.19-07.49.44:654][779]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.49.44:672][779]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.49.44
+[2020.12.19-07.49.44:674][779]LogWorld: Bringing up level for play took: 0.015596
+[2020.12.19-07.49.44:676][779]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.12.19-07.49.44:694][779]LogBlueprintUserMessages: [TopDownGameMode_C_0] 200.0
+[2020.12.19-07.49.44:695][779]LogBlueprintUserMessages: [TopDownGameMode_C_0] 200.0
+[2020.12.19-07.49.44:696][779]LogBlueprintUserMessages: [TopDownGameMode_C_0] 200.0
+[2020.12.19-07.49.44:697][779]PIE: Server logged in
+[2020.12.19-07.49.44:704][779]PIE: Play in editor total start time 0.835 seconds.
+[2020.12.19-07.50.02:868][636]LogRenderer: Reallocating scene render targets to support 972x536 Format 10 NumSamples 1 (Frame:1).
+[2020.12.19-07.50.18:820][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.50.18:820][588]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.50.18:821][588]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.50.18:824][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.50.18:833][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.50.18:837][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.50.18:882][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.50.18:882][588]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F76687380), frame # 198588
+[2020.12.19-07.50.18:882][588]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F54CB7800), frame # 198588
+[2020.12.19-07.50.18:885][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.12.19-07.50.18:937][589]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.12.19-07.50.20:600][670]LogEditorTransaction: Undo Create Pin Link
+[2020.12.19-07.50.25:002][865]BlueprintLog: New page: Compile BP_GridFloor
+[2020.12.19-07.50.25:077][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.12.19-07.51.44:934][600]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-07.51.45:004][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.12.19-07.51.45:602][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-07.51.45:631][633]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameModeBDD92FDC43055324997662BE87F6B6C4.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-07.51.45:646][633]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-07.51.45:646][633]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-07.51.47:066][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridFloor" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset" SILENT=true
+[2020.12.19-07.51.47:111][712]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_GridFloor0BBC9E1341F5F2B2967808A2E206B1F5.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset'
+[2020.12.19-07.51.47:124][712]AssetCheck: New page: Asset Save: BP_GridFloor
+[2020.12.19-07.51.47:124][712]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-07.51.50:317][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-07.51.50:353][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.12.19-07.51.50:402][902]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map1BEABF8564804FED35A22D497899C7B18.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-07.51.50:451][902]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-07.51.50:451][902]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-07.51.54:461][141]BlueprintLog: New page: Compile BP_GridFloor
+[2020.12.19-07.51.54:542][141]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2020.12.19-07.51.54:997][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridFloor" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset" SILENT=true
+[2020.12.19-07.51.55:037][165]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_GridFloor3A16A6D7435AA7ACAD2EF7ADC860436D.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset'
+[2020.12.19-07.51.55:050][165]AssetCheck: New page: Asset Save: BP_GridFloor
+[2020.12.19-07.51.55:050][165]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-07.51.57:497][306]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-07.51.57:516][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-07.51.57:516][306]PIE: New page: PIE session: Map1 (19 Dec 2020, 21:51:57)
+[2020.12.19-07.51.57:516][306]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.51.57:532][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016821s)
+[2020.12.19-07.51.57:533][306]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-07.51.57:533][306]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015EDECDDE00), frame # 204306
+[2020.12.19-07.51.57:534][306]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F549A6480), frame # 204306
+[2020.12.19-07.51.57:534][306]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2020.12.19-07.51.57:534][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.018514s)
+[2020.12.19-07.51.57:573][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.12.19-07.51.57:575][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-07.51.57:575][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-07.51.57:575][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-07.51.57:575][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-07.51.57:575][306]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-07.51.57:575][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-07.51.57:575][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-07.51.57:575][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-07.51.57:575][306]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-07.51.57:575][306]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-07.51.57:578][306]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-07.51.57:578][306]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-07.51.57:597][306]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-07.51.57:597][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-07.51.57:597][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-07.51.57:597][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-07.51.57:597][306]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-07.51.57:611][306]LogInit: FAudioDevice initialized.
+[2020.12.19-07.51.57:623][306]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-07.51.57:625][306]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-14.51.57
+[2020.12.19-07.51.57:625][306]LogWorld: Bringing up level for play took: 0.001527
+[2020.12.19-07.51.57:625][306]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.12.19-07.51.57:628][306]PIE: Server logged in
+[2020.12.19-07.51.57:629][306]PIE: Play in editor total start time 0.114 seconds.
+[2020.12.19-07.52.10:779][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.52.10:779][ 56]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map1
+[2020.12.19-07.52.10:780][ 56]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-07.52.10:780][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.52.10:787][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-07.52.10:791][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-07.52.10:838][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-07.52.10:839][ 56]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015F549A6480), frame # 205056
+[2020.12.19-07.52.10:839][ 56]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015EDECDDE00), frame # 205056
+[2020.12.19-07.52.10:841][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.12.19-07.52.10:879][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.12.19-07.52.16:197][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-07.52.16:235][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.12.19-07.52.16:280][366]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map149503760448C693BBEDF05A324B15F77.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-07.52.16:323][366]LogFileHelpers: Saving map 'Map1' took 0.126
+[2020.12.19-07.52.16:335][366]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-07.52.16:336][366]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-07.54.57:300][ 20]LogEditorViewport: Clicking on Actor (LMB): BP_GridFloor_C (BP_GridFloor)
+[2020.12.19-07.57.06:940][757]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.19-07.58.22:240][227]Cmd: TRANSACTION UNDO
+[2020.12.19-07.58.22:241][227]LogEditorTransaction: Undo Add New Event Dispatcher
+[2020.12.19-07.58.34:621][923]LogRenderer: Reallocating scene render targets to support 1136x668 Format 10 NumSamples 1 (Frame:1279).
+[2020.12.19-08.00.17:793][922]BlueprintLog: New page: Compile Map1
+[2020.12.19-08.00.17:808][922]LogBlueprint: Warning: [Compiler PersistentLevel.Map1] Could not find a variable named "Floor" in 'Map1_C'.
+Make sure 'Map1_C' has been compiled for  Get Floor
+[2020.12.19-08.00.17:808][922]LogBlueprint: Warning: [Compiler PersistentLevel.Map1] Could not find a variable named "Floor" in 'Map1_C'.
+Make sure 'Map1_C' has been compiled for  Set Floor
+[2020.12.19-08.00.17:809][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] In use pin  <Unnamed>  no longer exists on node  Set Mode . Please refresh node or break links to remove pin.
+[2020.12.19-08.00.17:809][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] In use pin  <Unnamed>  no longer exists on node  Set Door . Please refresh node or break links to remove pin.
+[2020.12.19-08.00.17:809][922]LogBlueprint: Warning: [Compiler PersistentLevel.Map1] Could not find a variable named "Door" in 'Map1_C'.
+Make sure 'Map1_C' has been compiled for  Set Door
+[2020.12.19-08.00.17:816][922]LogBlueprint: Warning: [Compiler PersistentLevel.Map1] Could not find a variable named "Door" in 'Map1_C'.
+Make sure 'Map1_C' has been compiled for  Get Door
+[2020.12.19-08.00.17:818][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Handle Set Mode  : unable to determine expected signature - is the delegate pin connected?
+[2020.12.19-08.00.17:818][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Wrong Event Dispatcher. Refresh node  Bind Event to ED Set Mode
+[2020.12.19-08.00.17:819][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] The property associated with  Door  could not be found in '/Game/Map/Map1.Map1_C'
+[2020.12.19-08.00.17:819][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] The property associated with  Floor  could not be found in '/Game/Map/Map1.Map1_C'
+[2020.12.19-08.00.17:819][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] The property associated with  Floor  could not be found in '/Game/Map/Map1.Map1_C'
+[2020.12.19-08.00.17:821][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2020.12.19-08.00.17:821][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] The property associated with  Door  could not be found in '/Game/Map/Map1.Map1_C'
+[2020.12.19-08.00.17:823][922]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Handle Set Mode  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2020.12.19-08.00.17:919][922]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2020.12.19-08.00.40:520][218]BlueprintLog: New page: Compile Map1
+[2020.12.19-08.00.40:532][218]LogBlueprint: Warning: [Compiler PersistentLevel.Map1] Could not find a variable named "Floor" in 'Map1_C'.
+Make sure 'Map1_C' has been compiled for  Get Floor
+[2020.12.19-08.00.40:533][218]LogBlueprint: Warning: [Compiler PersistentLevel.Map1] Could not find a variable named "Floor" in 'Map1_C'.
+Make sure 'Map1_C' has been compiled for  Set Floor
+[2020.12.19-08.00.40:533][218]LogBlueprint: Error: [Compiler PersistentLevel.Map1] In use pin  <Unnamed>  no longer exists on node  Set Mode . Please refresh node or break links to remove pin.
+[2020.12.19-08.00.40:533][218]LogBlueprint: Error: [Compiler PersistentLevel.Map1] In use pin  <Unnamed>  no longer exists on node  Set Door . Please refresh node or break links to remove pin.
+[2020.12.19-08.00.40:542][218]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Handle Set Mode  : unable to determine expected signature - is the delegate pin connected?
+[2020.12.19-08.00.40:543][218]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Wrong Event Dispatcher. Refresh node  Bind Event to ED Set Mode
+[2020.12.19-08.00.40:543][218]LogBlueprint: Error: [Compiler PersistentLevel.Map1] The property associated with  Floor  could not be found in '/Game/Map/Map1.Map1_C'
+[2020.12.19-08.00.40:543][218]LogBlueprint: Error: [Compiler PersistentLevel.Map1] The property associated with  Floor  could not be found in '/Game/Map/Map1.Map1_C'
+[2020.12.19-08.00.40:544][218]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2020.12.19-08.00.40:545][218]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Handle Set Mode  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2020.12.19-08.00.40:638][218]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2020.12.19-08.01.01:815][440]BlueprintLog: New page: Compile Map1
+[2020.12.19-08.01.01:829][440]LogBlueprint: Error: [Compiler PersistentLevel.Map1] In use pin  <Unnamed>  no longer exists on node  Set Mode . Please refresh node or break links to remove pin.
+[2020.12.19-08.01.01:829][440]LogBlueprint: Error: [Compiler PersistentLevel.Map1] In use pin  <Unnamed>  no longer exists on node  Set Door . Please refresh node or break links to remove pin.
+[2020.12.19-08.01.01:838][440]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Handle Set Mode  : unable to determine expected signature - is the delegate pin connected?
+[2020.12.19-08.01.01:838][440]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Wrong Event Dispatcher. Refresh node  Bind Event to ED Set Mode
+[2020.12.19-08.01.01:840][440]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2020.12.19-08.01.01:841][440]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Handle Set Mode  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2020.12.19-08.01.01:928][440]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2020.12.19-08.02.09:367][435]BlueprintLog: New page: Compile Map1
+[2020.12.19-08.02.09:375][435]LogBlueprint: Error: [Compiler PersistentLevel.Map1] In use pin  <Unnamed>  no longer exists on node  Set Mode . Please refresh node or break links to remove pin.
+[2020.12.19-08.02.09:380][435]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Handle Set Mode  : unable to determine expected signature - is the delegate pin connected?
+[2020.12.19-08.02.09:380][435]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Wrong Event Dispatcher. Refresh node  Bind Event to ED Set Mode
+[2020.12.19-08.02.09:380][435]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2020.12.19-08.02.09:381][435]LogBlueprint: Error: [Compiler PersistentLevel.Map1] Handle Set Mode  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2020.12.19-08.02.09:435][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.12.19-08.02.29:809][648]BlueprintLog: New page: Compile Map1
+[2020.12.19-08.02.29:819][648]LogBlueprint: Error: [Compiler PersistentLevel.Map1] In use pin  <Unnamed>  no longer exists on node  Set Mode . Please refresh node or break links to remove pin.
+[2020.12.19-08.02.29:876][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.12.19-08.02.46:508][636]BlueprintLog: New page: Compile Map1
+[2020.12.19-08.02.46:576][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.12.19-08.02.59:903][430]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-08.02.59:964][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.12.19-08.03.12:734][186]BlueprintLog: New page: Compile TopDownGameMode
+[2020.12.19-08.03.12:785][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.12.19-08.03.13:252][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TopDownGameMode" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset" SILENT=true
+[2020.12.19-08.03.13:271][212]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/TopDownGameMode8A2285644A183E1B3BD37A9C70D179B8.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/TopDownGameMode.uasset'
+[2020.12.19-08.03.13:284][212]AssetCheck: New page: Asset Save: TopDownGameMode
+[2020.12.19-08.03.13:284][212]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TopDownGameMode.TopDownGameMode
+[2020.12.19-08.03.14:304][274]BlueprintLog: New page: Compile BP_GridFloor
+[2020.12.19-08.03.14:378][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.12.19-08.03.14:834][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GridFloor" FILE="D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset" SILENT=true
+[2020.12.19-08.03.14:880][298]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/BP_GridFloor30F9AE424266752D4EE9B1A622CE3492.tmp' to 'D:/Work/Project_Statera/Statera/Content/Blueprints/BP_GridFloor.uasset'
+[2020.12.19-08.03.14:892][298]AssetCheck: New page: Asset Save: BP_GridFloor
+[2020.12.19-08.03.14:892][298]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_GridFloor.BP_GridFloor
+[2020.12.19-08.03.16:486][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map1" FILE="D:/Work/Project_Statera/Statera/Content/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-08.03.16:521][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.12.19-08.03.16:583][392]LogSavePackage: Moving 'D:/Work/Project_Statera/Statera/Saved/Map14C81B1D8482F20E563A2EFB827E1F2AA.tmp' to 'D:/Work/Project_Statera/Statera/Content/Map/Map1.umap'
+[2020.12.19-08.03.16:618][392]LogFileHelpers: Saving map 'Map1' took 0.132
+[2020.12.19-08.03.16:632][392]AssetCheck: New page: Asset Save: Map1
+[2020.12.19-08.03.16:632][392]LogContentValidation: Display: Validating World /Game/Map/Map1.Map1
+[2020.12.19-08.03.26:864][  0]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-08.03.26:891][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-08.03.26:891][  0]PIE: New page: PIE session: Map1 (19 Dec 2020, 22:03:26)
+[2020.12.19-08.03.26:892][  0]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map1
+[2020.12.19-08.03.26:915][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023553s)
+[2020.12.19-08.03.26:917][  0]LogAIModule: Creating AISystem for world Map1
+[2020.12.19-08.03.26:917][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015F879DAC00), frame # 245000
+[2020.12.19-08.03.26:917][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015F5CC10B80), frame # 245000
+[2020.12.19-08.03.26:917][  0]LogPlayLevel: PIE: World Init took: (0.001869s)
+[2020.12.19-08.03.26:917][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map1.Map1 to /Game/Map/UEDPIE_0_Map1.Map1 (0.025658s)
+[2020.12.19-08.03.26:958][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.12.19-08.03.26:960][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-08.03.26:960][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-08.03.26:961][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-08.03.26:961][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-08.03.26:961][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-08.03.26:961][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-08.03.26:961][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-08.03.26:961][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-08.03.26:961][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-08.03.26:961][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-08.03.26:964][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-08.03.26:964][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-08.03.26:983][  0]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2020.12.19-08.03.26:983][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-08.03.26:983][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-08.03.26:983][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-08.03.26:984][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-08.03.26:997][  0]LogInit: FAudioDevice initialized.
+[2020.12.19-08.03.27:004][  0]LogLoad: Game class is 'TopDownGameMode_C'
+[2020.12.19-08.03.27:007][  0]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2020.12.19-15.03.27
+[2020.12.19-08.03.27:007][  0]LogWorld: Bringing up level for play took: 0.001939
+[2020.12.19-08.03.27:008][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.12.19-08.03.27:010][  0]PIE: Server logged in
+[2020.12.19-08.03.27:011][  0]PIE: Play in editor total start time 0.121 seconds.
+[2020.12.19-08.03.28:575][ 91]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Map1_C /Game/Map/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_12
+	Function /Game/Map/Map1.Map1_C:ExecuteUbergraph_Map1:00D7
+[2020.12.19-08.03.28:576][ 91]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  Map1 Function:  Execute Ubergraph Map 1 Graph:  EventGraph Node:  Set Mode
+[2020.12.19-08.03.28:576][ 91]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+Map1_C.ExecuteUbergraph_Map1
+Map1_C.InpActEvt_R_K2Node_InputKeyEvent_0
+
+[2020.12.19-08.03.28:576][ 91]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: === Critical error: ===
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: 
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Templates/Casts.cpp] [Line: 10] 
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: Cast of nullptr to Function failed
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: 
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: 
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc9f78d759 KERNELBASE.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc461aec66 UE4Editor-Core.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc461b2048 UE4Editor-Core.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc45f3e52d UE4Editor-Core.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc479093aa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc47b714d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc47b9571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc47b63bba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc47b95362 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc47b9571d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc47b94c24 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc47920b34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc47b94753 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc482cafe5 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc494890d4 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc494b514e UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc48fbb988 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc48fcf1b4 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc48fb9a1b UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc48fcd681 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc482a9f84 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc4936936f UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc4936e3c7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc45ce87d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc45ce8aa3 UE4Editor-Core.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc45cff027 UE4Editor-Core.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc4938a402 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc4938f6ca UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc48b4d0bf UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc48b57957 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc4454af57 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffc44e237e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ff61e3c7800 UE4Editor.exe!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ff61e3dba7c UE4Editor.exe!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ff61e3dbb5a UE4Editor.exe!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ff61e3ee31d UE4Editor.exe!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ff61e3f145a UE4Editor.exe!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffca0837034 KERNEL32.DLL!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: [Callstack] 0x00007ffca1cdd0d1 ntdll.dll!UnknownFunction []
+[2020.12.19-08.03.31:975][ 91]LogWindows: Error: 
+[2020.12.19-08.03.31:987][ 91]LogExit: Executing StaticShutdownAfterError
+[2020.12.19-08.03.32:058][ 91]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.12.19-08.03.32:058][ 91]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.12.19-08.03.32:092][ 91]Log file closed, 12/19/20 15:03:32
